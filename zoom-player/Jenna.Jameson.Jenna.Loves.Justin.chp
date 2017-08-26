@@ -1,0 +1,45 @@
+// Zoom Player v5.00 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:02:56
+AddChapter(00005293,No Title)
+# Chapter 001: 00:03:18
+AddChapter(00005947,No Title)
+# Chapter 002: 00:03:50
+AddChapter(00006914,No Title)
+# Chapter 003: 00:04:02
+AddChapter(00007268,No Title)
+# Chapter 004: 00:04:13
+AddChapter(00007611,No Title)
+# Chapter 005: 00:04:25
+AddChapter(00007966,No Title)
+# Chapter 006: 00:04:42
+AddChapter(00008460,No Title)
+# Chapter 007: 00:04:48
+AddChapter(00008660,No Title)
+# Chapter 008: 00:04:59
+AddChapter(00008979,No Title)
+# Chapter 009: 00:05:12
+AddChapter(00009378,No Title)
+# Chapter 010: 00:05:48
+AddChapter(00010432,No Title)
+# Chapter 011: 00:06:14
+AddChapter(00011218,No Title)
+# Chapter 012: 00:07:00
+AddChapter(00012613,No Title)
+# Chapter 013: 00:07:26
+AddChapter(00013369,No Title)
+# Chapter 014: 00:07:49
+AddChapter(00014059,No Title)
+# Chapter 015: 00:07:56
+AddChapter(00014271,No Title)
+# Chapter 016: 00:10:14
+AddChapter(00018411,No Title)
+# Chapter 017: 00:10:27
+AddChapter(00018809,No Title)

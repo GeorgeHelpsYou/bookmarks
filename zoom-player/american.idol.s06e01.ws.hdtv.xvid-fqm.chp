@@ -1,0 +1,67 @@
+// Zoom Player v4.51 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:35
+AddChapter(00001062,No Title)
+# Chapter 001: 00:04:31
+AddChapter(00008150,No Title)
+# Chapter 002: 00:04:56
+AddChapter(00008884,No Title)
+# Chapter 003: 00:05:01
+AddChapter(00009023,No Title)
+# Chapter 004: 00:05:07
+AddChapter(00009224,No Title)
+# Chapter 005: 00:05:34
+AddChapter(00010033,No Title)
+# Chapter 006: 00:06:36
+AddChapter(00011891,No Title)
+# Chapter 007: 00:08:13
+AddChapter(00014790,No Title)
+# Chapter 008: 00:10:25
+AddChapter(00018747,No Title)
+# Chapter 009: 00:15:29
+AddChapter(00027851,No Title)
+# Chapter 010: 00:34:27
+AddChapter(00061949,No Title)
+# Chapter 011: 00:44:48
+AddChapter(00080568,No Title)
+# Chapter 012: 00:46:25
+AddChapter(00083471,No Title)
+# Chapter 013: 00:47:10
+AddChapter(00084829,No Title)
+# Chapter 014: 00:50:01
+AddChapter(00089970,No Title)
+# Chapter 015: 00:57:03
+AddChapter(00102616,No Title)
+# Chapter 016: 01:02:57
+AddChapter(00113199,No Title)
+# Chapter 017: 01:05:28
+AddChapter(00117736,No Title)
+# Chapter 018: 01:06:43
+AddChapter(00119978,No Title)
+# Chapter 019: 01:07:02
+AddChapter(00120545,No Title)
+# Chapter 020: 01:08:31
+AddChapter(00123229,No Title)
+# Chapter 021: 01:09:02
+AddChapter(00124138,No Title)
+# Chapter 022: 01:09:55
+AddChapter(00125732,No Title)
+# Chapter 023: 01:10:29
+AddChapter(00126744,No Title)
+# Chapter 024: 01:11:07
+AddChapter(00127892,No Title)
+# Chapter 025: 01:16:04
+AddChapter(00136785,No Title)
+# Chapter 026: 01:16:40
+AddChapter(00137864,No Title)
+# Chapter 027: 01:17:25
+AddChapter(00139234,No Title)
+# Chapter 028: 01:20:15
+AddChapter(00144326,No Title)

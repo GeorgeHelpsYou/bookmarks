@@ -1,0 +1,205 @@
+// Zoom Player v5.00 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:06:20
+AddChapter(00009131,No Title)
+# Chapter 001: 00:07:30
+AddChapter(00010806,No Title)
+# Chapter 002: 00:08:04
+AddChapter(00011619,No Title)
+# Chapter 003: 00:11:11
+AddChapter(00016096,No Title)
+# Chapter 004: 00:12:36
+AddChapter(00018131,No Title)
+# Chapter 005: 00:13:02
+AddChapter(00018755,No Title)
+# Chapter 006: 00:13:11
+AddChapter(00018966,No Title)
+# Chapter 007: 00:14:00
+AddChapter(00020149,No Title)
+# Chapter 008: 00:14:48
+AddChapter(00021314,No Title)
+# Chapter 009: 00:15:21
+AddChapter(00022082,No Title)
+# Chapter 010: 00:15:59
+AddChapter(00023008,No Title)
+# Chapter 011: 00:16:20
+AddChapter(00023512,No Title)
+# Chapter 012: 00:18:09
+AddChapter(00026112,No Title)
+# Chapter 013: 00:18:30
+AddChapter(00026626,No Title)
+# Chapter 014: 00:19:35
+AddChapter(00028188,No Title)
+# Chapter 015: 00:19:45
+AddChapter(00028422,No Title)
+# Chapter 016: 00:20:14
+AddChapter(00029123,No Title)
+# Chapter 017: 00:20:57
+AddChapter(00030141,No Title)
+# Chapter 018: 00:21:14
+AddChapter(00030563,No Title)
+# Chapter 019: 00:21:42
+AddChapter(00031217,No Title)
+# Chapter 020: 00:22:34
+AddChapter(00032472,No Title)
+# Chapter 021: 00:23:09
+AddChapter(00033313,No Title)
+# Chapter 022: 00:24:36
+AddChapter(00035395,No Title)
+# Chapter 023: 00:25:14
+AddChapter(00036316,No Title)
+# Chapter 024: 00:25:45
+AddChapter(00037066,No Title)
+# Chapter 025: 00:26:41
+AddChapter(00038394,No Title)
+# Chapter 026: 00:27:03
+AddChapter(00038935,No Title)
+# Chapter 027: 00:27:15
+AddChapter(00039221,No Title)
+# Chapter 028: 00:28:08
+AddChapter(00040495,No Title)
+# Chapter 029: 00:28:29
+AddChapter(00040994,No Title)
+# Chapter 030: 00:29:13
+AddChapter(00042040,No Title)
+# Chapter 031: 00:31:13
+AddChapter(00044928,No Title)
+# Chapter 032: 00:32:28
+AddChapter(00046728,No Title)
+# Chapter 033: 00:32:59
+AddChapter(00047471,No Title)
+# Chapter 034: 00:33:16
+AddChapter(00047858,No Title)
+# Chapter 035: 00:34:02
+AddChapter(00048960,No Title)
+# Chapter 036: 00:35:07
+AddChapter(00050534,No Title)
+# Chapter 037: 00:36:00
+AddChapter(00051793,No Title)
+# Chapter 038: 00:36:04
+AddChapter(00051900,No Title)
+# Chapter 039: 00:37:07
+AddChapter(00053404,No Title)
+# Chapter 040: 00:37:29
+AddChapter(00053944,No Title)
+# Chapter 041: 00:38:37
+AddChapter(00055565,No Title)
+# Chapter 042: 00:38:51
+AddChapter(00055906,No Title)
+# Chapter 043: 00:39:02
+AddChapter(00056167,No Title)
+# Chapter 044: 00:40:07
+AddChapter(00057719,No Title)
+# Chapter 045: 00:40:49
+AddChapter(00058724,No Title)
+# Chapter 046: 00:41:00
+AddChapter(00058994,No Title)
+# Chapter 047: 00:42:44
+AddChapter(00061483,No Title)
+# Chapter 048: 00:44:18
+AddChapter(00063737,No Title)
+# Chapter 049: 00:44:42
+AddChapter(00064305,No Title)
+# Chapter 050: 00:45:23
+AddChapter(00065293,No Title)
+# Chapter 051: 00:45:28
+AddChapter(00065418,No Title)
+# Chapter 052: 00:45:35
+AddChapter(00065575,No Title)
+# Chapter 053: 00:45:49
+AddChapter(00065930,No Title)
+# Chapter 054: 00:47:54
+AddChapter(00068930,No Title)
+# Chapter 055: 00:48:37
+AddChapter(00069954,No Title)
+# Chapter 056: 00:48:57
+AddChapter(00070433,No Title)
+# Chapter 057: 00:49:33
+AddChapter(00071295,No Title)
+# Chapter 058: 00:50:59
+AddChapter(00073364,No Title)
+# Chapter 059: 00:53:12
+AddChapter(00076545,No Title)
+# Chapter 060: 00:53:45
+AddChapter(00077344,No Title)
+# Chapter 061: 00:55:54
+AddChapter(00080426,No Title)
+# Chapter 062: 00:56:19
+AddChapter(00081016,No Title)
+# Chapter 063: 00:59:59
+AddChapter(00086308,No Title)
+# Chapter 064: 01:01:25
+AddChapter(00088357,No Title)
+# Chapter 065: 01:01:40
+AddChapter(00088717,No Title)
+# Chapter 066: 01:01:46
+AddChapter(00088867,No Title)
+# Chapter 067: 01:02:24
+AddChapter(00089777,No Title)
+# Chapter 068: 01:03:47
+AddChapter(00091757,No Title)
+# Chapter 069: 01:06:34
+AddChapter(00095768,No Title)
+# Chapter 070: 01:06:55
+AddChapter(00096267,No Title)
+# Chapter 071: 01:07:25
+AddChapter(00096992,No Title)
+# Chapter 072: 01:09:07
+AddChapter(00099430,No Title)
+# Chapter 073: 01:10:50
+AddChapter(00101907,No Title)
+# Chapter 074: 01:13:03
+AddChapter(00105094,No Title)
+# Chapter 075: 01:14:20
+AddChapter(00106953,No Title)
+# Chapter 076: 01:15:03
+AddChapter(00107978,No Title)
+# Chapter 077: 01:15:14
+AddChapter(00108246,No Title)
+# Chapter 078: 01:17:05
+AddChapter(00110893,No Title)
+# Chapter 079: 01:17:44
+AddChapter(00111844,No Title)
+# Chapter 080: 01:21:47
+AddChapter(00117655,No Title)
+# Chapter 081: 01:22:19
+AddChapter(00118433,No Title)
+# Chapter 082: 01:23:00
+AddChapter(00119404,No Title)
+# Chapter 083: 01:23:14
+AddChapter(00119748,No Title)
+# Chapter 084: 01:23:23
+AddChapter(00119966,No Title)
+# Chapter 085: 01:23:42
+AddChapter(00120431,No Title)
+# Chapter 086: 01:23:48
+AddChapter(00120566,No Title)
+# Chapter 087: 01:23:53
+AddChapter(00120681,No Title)
+# Chapter 088: 01:24:11
+AddChapter(00121125,No Title)
+# Chapter 089: 01:24:25
+AddChapter(00121459,No Title)
+# Chapter 090: 01:25:28
+AddChapter(00122967,No Title)
+# Chapter 091: 01:25:40
+AddChapter(00123251,No Title)
+# Chapter 092: 01:25:58
+AddChapter(00123690,No Title)
+# Chapter 093: 01:26:08
+AddChapter(00123927,No Title)
+# Chapter 094: 01:26:31
+AddChapter(00124465,No Title)
+# Chapter 095: 01:26:52
+AddChapter(00124977,No Title)
+# Chapter 096: 01:27:15
+AddChapter(00125526,No Title)
+# Chapter 097: 01:28:14
+AddChapter(00126934,No Title)

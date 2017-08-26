@@ -1,0 +1,27 @@
+// Zoom Player v12.7 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Bre&aposel IV")
+# Chapter 001: 00:04:38
+AddChapterBySecond("278.923","Stripped Of All Powers")
+# Chapter 002: 00:11:23
+AddChapterBySecond("683.914","A Pitiful Excuse For A Human")
+# Chapter 003: 00:21:07
+AddChapterBySecond("1267.748","The Calamarain")
+# Chapter 004: 00:25:36
+AddChapterBySecond("1536.529","Human Interpersonal Relationships")
+# Chapter 005: 00:31:03
+AddChapterBySecond("1863.558","Death Of A Coward")
+# Chapter 006: 00:36:32
+AddChapterBySecond("2192.254","One Selfless Act")
+# Chapter 007: 00:40:19
+AddChapterBySecond("2419.736","A Going Away Present")
+# Chapter 008: 00:41:11
+AddChapterBySecond("2471.144","No Title")

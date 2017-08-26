@@ -1,0 +1,59 @@
+// Zoom Player v13.7 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","TV Rating")
+# Chapter 001: 00:00:01
+AddChapterBySecond("1.001","Previously On")
+# Chapter 002: 00:01:14
+AddChapterBySecond("74.026","Studio Logo")
+# Chapter 003: 00:01:21
+AddChapterBySecond("81.999","Opening Credits")
+# Chapter 004: 00:03:09
+AddChapterBySecond("189.018","Daenerys asks Varys why she should trust him; Dragonstone")
+# Chapter 005: 00:04:17
+AddChapterBySecond("257.940","No Title")
+# Chapter 006: 00:05:28
+AddChapterBySecond("328.029","No Title")
+# Chapter 007: 00:08:33
+AddChapterBySecond("513.044","Melisandre tells Daenerys about an ally in the North; Dragonstone")
+# Chapter 008: 00:11:47
+AddChapterBySecond("708.000","Jon&comma Sansa&comma and Davos discuss Tyrion&aposs letter; Winterfell")
+# Chapter 009: 00:13:14
+AddChapterBySecond("794.002","Cersei tries to secure the loyalty of the Tyrell bannermen; King&aposs Landing")
+# Chapter 010: 00:17:04
+AddChapterBySecond("1024.053","Archmaester Ebrose examines Jorah&aposs greyscale; Oldtown")
+# Chapter 011: 00:19:17
+AddChapterBySecond("1157.026","Qyburn shows Cersei what he&aposs been working on; King&aposs Landing")
+# Chapter 012: 00:21:04
+AddChapterBySecond("1264.045","Daenerys discusses her war plan with her advisors; Dragonstone")
+# Chapter 013: 00:25:20
+AddChapterBySecond("1520.016","Grey Worm says goodbye to Missandei; Dragonstone")
+# Chapter 014: 00:30:09
+AddChapterBySecond("1809.014","Sam takes matters into his own hands; Oldtown")
+# Chapter 015: 00:35:24
+AddChapterBySecond("2124.033","Arya runs into an old friend; The Riverlands")
+# Chapter 016: 00:38:57
+AddChapterBySecond("2337.003","Jon tells his bannermen he will meet with Daenerys; Winterfell")
+# Chapter 017: 00:42:51
+AddChapterBySecond("2571.057","No Title")
+# Chapter 018: 00:43:21
+AddChapterBySecond("2601.048","Littlefinger talks with Jon in the crypts; Winterfell")
+# Chapter 019: 00:46:03
+AddChapterBySecond("2763.044","Arya runs into another old friend; The Riverlands")
+# Chapter 020: 00:49:00
+AddChapterBySecond("2940.019","The Greyjoy fleet sails south; The Narrow Sea")
+# Chapter 021: 00:58:00
+AddChapterBySecond("3480.051","End Credits")
+# Chapter 022: 00:59:18
+AddChapterBySecond("3558.013","Next On")
+# Chapter 023: 00:59:48
+AddChapterBySecond("3588.004","Online Extra")
+# Chapter 024: 00:42:43
+AddChapterBySecond("2563.251","No Title")

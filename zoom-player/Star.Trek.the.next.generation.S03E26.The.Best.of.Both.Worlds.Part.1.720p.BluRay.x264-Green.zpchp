@@ -1,0 +1,33 @@
+// Zoom Player v12.7 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","New Providence Colony")
+# Chapter 001: 00:03:07
+AddChapterBySecond("187.083","Lt. Commander Shelby")
+# Chapter 002: 00:11:02
+AddChapterBySecond("662.196","Ready To Take Command")
+# Chapter 003: 00:15:59
+AddChapterBySecond("959.668","We Have Engaged The Borg")
+# Chapter 004: 00:23:29
+AddChapterBySecond("1409.027","Playing It Safe")
+# Chapter 005: 00:27:13
+AddChapterBySecond("1633.307","Just Another Page In History")
+# Chapter 006: 00:30:02
+AddChapterBySecond("1802.008","A Human Voice For The Borg")
+# Chapter 007: 00:35:27
+AddChapterBySecond("2127.569","The Mosquito&aposs Point Of View")
+# Chapter 008: 00:41:05
+AddChapterBySecond("2465.472","Locutus Of Borg&comma Resistance Is Futile")
+# Chapter 009: 00:18:18
+AddChapterBySecond("1098.078","No Title")
+# Chapter 010: 00:21:32
+AddChapterBySecond("1292.367","No Title")
+# Chapter 011: 00:44:22
+AddChapterBySecond("2662.697","No Title")

@@ -1,0 +1,67 @@
+// Zoom Player v4.03 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:04:56
+AddChapter(00007105,No Title)
+# Chapter 001: 00:05:11
+AddChapter(00007459,No Title)
+# Chapter 002: 00:05:30
+AddChapter(00007929,No Title)
+# Chapter 003: 00:05:38
+AddChapter(00008116,No Title)
+# Chapter 004: 00:07:24
+AddChapter(00010666,No Title)
+# Chapter 005: 00:08:32
+AddChapter(00012288,No Title)
+# Chapter 006: 00:08:51
+AddChapter(00012733,No Title)
+# Chapter 007: 00:09:37
+AddChapter(00013849,No Title)
+# Chapter 008: 00:10:01
+AddChapter(00014431,No Title)
+# Chapter 009: 00:10:49
+AddChapter(00015570,No Title)
+# Chapter 010: 00:11:30
+AddChapter(00016549,No Title)
+# Chapter 011: 00:14:17
+AddChapter(00020553,No Title)
+# Chapter 012: 00:16:48
+AddChapter(00024187,No Title)
+# Chapter 013: 00:16:51
+AddChapter(00024249,No Title)
+# Chapter 014: 00:17:01
+AddChapter(00024491,No Title)
+# Chapter 015: 00:18:28
+AddChapter(00026576,No Title)
+# Chapter 016: 00:19:37
+AddChapter(00028243,No Title)
+# Chapter 017: 00:21:11
+AddChapter(00030476,No Title)
+# Chapter 018: 00:21:57
+AddChapter(00031590,No Title)
+# Chapter 019: 00:22:06
+AddChapter(00031813,No Title)
+# Chapter 020: 00:22:58
+AddChapter(00033043,No Title)
+# Chapter 021: 00:23:39
+AddChapter(00034032,No Title)
+# Chapter 022: 00:26:12
+AddChapter(00037692,No Title)
+# Chapter 023: 00:27:23
+AddChapter(00039409,No Title)
+# Chapter 024: 00:29:19
+AddChapter(00042194,No Title)
+# Chapter 025: 00:35:55
+AddChapter(00051671,No Title)
+# Chapter 026: 00:37:02
+AddChapter(00053294,No Title)
+# Chapter 027: 00:39:50
+AddChapter(00057313,No Title)
+# Chapter 028: 00:40:50
+AddChapter(00058754,No Title)

@@ -1,0 +1,259 @@
+// Zoom Player v6.00 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:01:09
+AddChapter(00002097,"No Title")
+# Chapter 001: 00:01:44
+AddChapter(00003127,"No Title")
+# Chapter 002: 00:02:22
+AddChapter(00004277,"No Title")
+# Chapter 003: 00:02:26
+AddChapter(00004391,"No Title")
+# Chapter 004: 00:03:10
+AddChapter(00005713,"No Title")
+# Chapter 005: 00:03:49
+AddChapter(00006886,"No Title")
+# Chapter 006: 00:04:28
+AddChapter(00008046,"No Title")
+# Chapter 007: 00:05:50
+AddChapter(00010519,"No Title")
+# Chapter 008: 00:06:05
+AddChapter(00010963,"No Title")
+# Chapter 009: 00:06:28
+AddChapter(00011653,"No Title")
+# Chapter 010: 00:09:00
+AddChapter(00016202,"No Title")
+# Chapter 011: 00:09:46
+AddChapter(00017575,"No Title")
+# Chapter 012: 00:09:49
+AddChapter(00017678,"No Title")
+# Chapter 013: 00:10:45
+AddChapter(00019351,"No Title")
+# Chapter 014: 00:11:41
+AddChapter(00021020,"No Title")
+# Chapter 015: 00:12:04
+AddChapter(00021723,"No Title")
+# Chapter 016: 00:13:00
+AddChapter(00023401,"No Title")
+# Chapter 017: 00:17:37
+AddChapter(00031686,"No Title")
+# Chapter 018: 00:31:34
+AddChapter(00056804,"No Title")
+# Chapter 019: 00:34:44
+AddChapter(00062478,"No Title")
+# Chapter 020: 00:44:32
+AddChapter(00080110,"No Title")
+# Chapter 021: 00:45:03
+AddChapter(00081033,"No Title")
+# Chapter 022: 00:46:00
+AddChapter(00082736,"No Title")
+# Chapter 023: 00:49:16
+AddChapter(00088618,"No Title")
+# Chapter 024: 00:49:24
+AddChapter(00088862,"No Title")
+# Chapter 025: 00:49:29
+AddChapter(00089005,"No Title")
+# Chapter 026: 00:49:36
+AddChapter(00089227,"No Title")
+# Chapter 027: 00:51:22
+AddChapter(00092403,"No Title")
+# Chapter 028: 00:51:29
+AddChapter(00092604,"No Title")
+# Chapter 029: 00:51:36
+AddChapter(00092813,"No Title")
+# Chapter 030: 00:51:48
+AddChapter(00093180,"No Title")
+# Chapter 031: 00:54:47
+AddChapter(00098537,"No Title")
+# Chapter 032: 01:03:34
+AddChapter(00114338,"No Title")
+# Chapter 033: 01:03:38
+AddChapter(00114452,"No Title")
+# Chapter 034: 01:03:51
+AddChapter(00114856,"No Title")
+# Chapter 035: 01:04:27
+AddChapter(00115940,"No Title")
+# Chapter 036: 01:04:39
+AddChapter(00116286,"No Title")
+# Chapter 037: 01:05:54
+AddChapter(00118540,"No Title")
+# Chapter 038: 01:06:09
+AddChapter(00118992,"No Title")
+# Chapter 039: 01:06:11
+AddChapter(00119040,"No Title")
+# Chapter 040: 01:06:33
+AddChapter(00119724,"No Title")
+# Chapter 041: 01:06:41
+AddChapter(00119952,"No Title")
+# Chapter 042: 01:06:47
+AddChapter(00120121,"No Title")
+# Chapter 043: 01:07:19
+AddChapter(00121081,"No Title")
+# Chapter 044: 01:07:26
+AddChapter(00121287,"No Title")
+# Chapter 045: 01:07:48
+AddChapter(00121966,"No Title")
+# Chapter 046: 01:08:20
+AddChapter(00122911,"No Title")
+# Chapter 047: 01:08:37
+AddChapter(00123431,"No Title")
+# Chapter 048: 01:08:41
+AddChapter(00123543,"No Title")
+# Chapter 049: 01:09:15
+AddChapter(00124555,"No Title")
+# Chapter 050: 01:09:33
+AddChapter(00125112,"No Title")
+# Chapter 051: 01:09:54
+AddChapter(00125733,"No Title")
+# Chapter 052: 01:10:44
+AddChapter(00127231,"No Title")
+# Chapter 053: 01:11:08
+AddChapter(00127954,"No Title")
+# Chapter 054: 01:11:26
+AddChapter(00128486,"No Title")
+# Chapter 055: 01:11:34
+AddChapter(00128736,"No Title")
+# Chapter 056: 01:12:04
+AddChapter(00129642,"No Title")
+# Chapter 057: 01:12:52
+AddChapter(00131070,"No Title")
+# Chapter 058: 01:13:12
+AddChapter(00131667,"No Title")
+# Chapter 059: 01:14:47
+AddChapter(00134526,"No Title")
+# Chapter 060: 01:14:56
+AddChapter(00134776,"No Title")
+# Chapter 061: 01:15:38
+AddChapter(00136037,"No Title")
+# Chapter 062: 01:15:46
+AddChapter(00136283,"No Title")
+# Chapter 063: 01:16:04
+AddChapter(00136828,"No Title")
+# Chapter 064: 01:17:06
+AddChapter(00138698,"No Title")
+# Chapter 065: 01:18:19
+AddChapter(00140866,"No Title")
+# Chapter 066: 01:19:12
+AddChapter(00142471,"No Title")
+# Chapter 067: 01:22:04
+AddChapter(00147622,"No Title")
+# Chapter 068: 01:22:17
+AddChapter(00148006,"No Title")
+# Chapter 069: 01:22:25
+AddChapter(00148259,"No Title")
+# Chapter 070: 01:23:14
+AddChapter(00149714,"No Title")
+# Chapter 071: 01:23:31
+AddChapter(00150224,"No Title")
+# Chapter 072: 01:23:45
+AddChapter(00150631,"No Title")
+# Chapter 073: 01:23:56
+AddChapter(00150973,"No Title")
+# Chapter 074: 01:24:15
+AddChapter(00151557,"No Title")
+# Chapter 075: 01:24:26
+AddChapter(00151879,"No Title")
+# Chapter 076: 01:24:39
+AddChapter(00152263,"No Title")
+# Chapter 077: 01:24:40
+AddChapter(00152302,"No Title")
+# Chapter 078: 01:24:45
+AddChapter(00152456,"No Title")
+# Chapter 079: 01:25:05
+AddChapter(00153037,"No Title")
+# Chapter 080: 01:25:20
+AddChapter(00153500,"No Title")
+# Chapter 081: 01:25:59
+AddChapter(00154648,"No Title")
+# Chapter 082: 01:26:09
+AddChapter(00154946,"No Title")
+# Chapter 083: 01:26:15
+AddChapter(00155132,"No Title")
+# Chapter 084: 01:26:26
+AddChapter(00155466,"No Title")
+# Chapter 085: 01:26:50
+AddChapter(00156179,"No Title")
+# Chapter 086: 01:26:56
+AddChapter(00156374,"No Title")
+# Chapter 087: 01:28:22
+AddChapter(00158939,"No Title")
+# Chapter 088: 01:29:15
+AddChapter(00160533,"No Title")
+# Chapter 089: 01:29:35
+AddChapter(00161130,"No Title")
+# Chapter 090: 01:29:44
+AddChapter(00161400,"No Title")
+# Chapter 091: 01:29:54
+AddChapter(00161693,"No Title")
+# Chapter 092: 01:30:04
+AddChapter(00162013,"No Title")
+# Chapter 093: 01:31:04
+AddChapter(00163796,"No Title")
+# Chapter 094: 01:31:14
+AddChapter(00164103,"No Title")
+# Chapter 095: 01:32:02
+AddChapter(00165536,"No Title")
+# Chapter 096: 01:32:13
+AddChapter(00165865,"No Title")
+# Chapter 097: 01:32:25
+AddChapter(00166220,"No Title")
+# Chapter 098: 01:34:01
+AddChapter(00169101,"No Title")
+# Chapter 099: 01:34:09
+AddChapter(00169344,"No Title")
+# Chapter 100: 01:34:18
+AddChapter(00169615,"No Title")
+# Chapter 101: 01:34:28
+AddChapter(00169908,"No Title")
+# Chapter 102: 01:34:36
+AddChapter(00170158,"No Title")
+# Chapter 103: 01:35:05
+AddChapter(00171017,"No Title")
+# Chapter 104: 01:35:17
+AddChapter(00171376,"No Title")
+# Chapter 105: 01:35:30
+AddChapter(00171769,"No Title")
+# Chapter 106: 01:35:38
+AddChapter(00172016,"No Title")
+# Chapter 107: 01:35:56
+AddChapter(00172562,"No Title")
+# Chapter 108: 01:36:13
+AddChapter(00173068,"No Title")
+# Chapter 109: 01:36:19
+AddChapter(00173251,"No Title")
+# Chapter 110: 01:36:30
+AddChapter(00173568,"No Title")
+# Chapter 111: 01:36:32
+AddChapter(00173647,"No Title")
+# Chapter 112: 01:36:40
+AddChapter(00173880,"No Title")
+# Chapter 113: 01:36:47
+AddChapter(00174083,"No Title")
+# Chapter 114: 01:36:55
+AddChapter(00174328,"No Title")
+# Chapter 115: 01:37:00
+AddChapter(00174487,"No Title")
+# Chapter 116: 01:37:13
+AddChapter(00174868,"No Title")
+# Chapter 117: 01:37:35
+AddChapter(00175517,"No Title")
+# Chapter 118: 01:37:47
+AddChapter(00175881,"No Title")
+# Chapter 119: 01:38:34
+AddChapter(00177282,"No Title")
+# Chapter 120: 01:39:03
+AddChapter(00178156,"No Title")
+# Chapter 121: 01:39:45
+AddChapter(00179427,"No Title")
+# Chapter 122: 01:41:25
+AddChapter(00182428,"No Title")
+# Chapter 123: 01:42:01
+AddChapter(00183500,"No Title")
+# Chapter 124: 01:44:15
+AddChapter(00187502,"No Title")

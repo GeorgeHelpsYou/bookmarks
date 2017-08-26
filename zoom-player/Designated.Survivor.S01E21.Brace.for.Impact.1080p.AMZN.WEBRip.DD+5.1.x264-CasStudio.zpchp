@@ -1,0 +1,53 @@
+// Zoom Player v13.7 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Previously On")
+# Chapter 001: 00:00:45
+AddChapterBySecond("45.003","Hannah flees")
+# Chapter 002: 00:02:30
+AddChapterBySecond("150.987","Title Sequence")
+# Chapter 003: 00:02:38
+AddChapterBySecond("158.994","Mike briefs the president")
+# Chapter 004: 00:05:18
+AddChapterBySecond("318.989","The FBI moves on Lloyd")
+# Chapter 005: 00:09:03
+AddChapterBySecond("543.001","Brace for Impact")
+# Chapter 006: 00:14:23
+AddChapterBySecond("863.991","Tom thanks Aaron")
+# Chapter 007: 00:19:03
+AddChapterBySecond("1143.014","Lozano gets what he was after")
+# Chapter 008: 00:21:22
+AddChapterBySecond("1282.993","No victory without sacrifice")
+# Chapter 009: 00:26:28
+AddChapterBySecond("1588.004","Hannah checks her email from Atwod")
+# Chapter 010: 00:30:04
+AddChapterBySecond("1804.010","Hannah goes back to Jason&aposs office")
+# Chapter 011: 00:33:53
+AddChapterBySecond("2033.994","Tom addresses the nation")
+# Chapter 012: 00:39:51
+AddChapterBySecond("2391.013","Lozano&aposs move is revealed")
+# Chapter 013: 00:40:44
+AddChapterBySecond("2444.989","End Credits")
+# Chapter 014: 00:11:53
+AddChapterBySecond("713.304","No Title")
+# Chapter 015: 00:15:44
+AddChapterBySecond("944.122","No Title")
+# Chapter 016: 00:18:20
+AddChapterBySecond("1100.647","No Title")
+# Chapter 017: 00:26:59
+AddChapterBySecond("1619.195","No Title")
+# Chapter 018: 00:30:21
+AddChapterBySecond("1821.958","No Title")
+# Chapter 019: 00:33:22
+AddChapterBySecond("2002.869","No Title")
+# Chapter 020: 00:35:59
+AddChapterBySecond("2159.461","No Title")
+# Chapter 021: 00:36:04
+AddChapterBySecond("2164.498","No Title")

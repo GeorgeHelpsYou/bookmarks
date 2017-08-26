@@ -1,0 +1,79 @@
+// Zoom Player v4.51 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:51
+AddChapter(00001239,No Title)
+# Chapter 001: 00:01:52
+AddChapter(00002705,No Title)
+# Chapter 002: 00:02:08
+AddChapter(00003089,No Title)
+# Chapter 003: 00:03:03
+AddChapter(00004389,No Title)
+# Chapter 004: 00:03:37
+AddChapter(00005220,No Title)
+# Chapter 005: 00:04:12
+AddChapter(00006055,No Title)
+# Chapter 006: 00:05:50
+AddChapter(00008396,No Title)
+# Chapter 007: 00:07:41
+AddChapter(00011075,No Title)
+# Chapter 008: 00:08:34
+AddChapter(00012330,No Title)
+# Chapter 009: 00:10:44
+AddChapter(00015461,No Title)
+# Chapter 010: 00:13:22
+AddChapter(00019247,No Title)
+# Chapter 011: 00:14:04
+AddChapter(00020240,No Title)
+# Chapter 012: 00:15:43
+AddChapter(00022610,No Title)
+# Chapter 013: 00:17:18
+AddChapter(00024907,No Title)
+# Chapter 014: 00:18:52
+AddChapter(00027149,No Title)
+# Chapter 015: 00:19:37
+AddChapter(00028237,No Title)
+# Chapter 016: 00:22:33
+AddChapter(00032463,No Title)
+# Chapter 017: 00:23:19
+AddChapter(00033562,No Title)
+# Chapter 018: 00:24:10
+AddChapter(00034784,No Title)
+# Chapter 019: 00:26:13
+AddChapter(00037722,No Title)
+# Chapter 020: 00:29:26
+AddChapter(00042349,No Title)
+# Chapter 021: 00:30:00
+AddChapter(00043175,No Title)
+# Chapter 022: 00:30:27
+AddChapter(00043819,No Title)
+# Chapter 023: 00:30:41
+AddChapter(00044155,No Title)
+# Chapter 024: 00:31:15
+AddChapter(00044960,No Title)
+# Chapter 025: 00:31:25
+AddChapter(00045203,No Title)
+# Chapter 026: 00:32:40
+AddChapter(00046994,No Title)
+# Chapter 027: 00:33:06
+AddChapter(00047629,No Title)
+# Chapter 028: 00:34:42
+AddChapter(00049920,No Title)
+# Chapter 029: 00:38:19
+AddChapter(00055131,No Title)
+# Chapter 030: 00:38:49
+AddChapter(00055862,No Title)
+# Chapter 031: 00:38:59
+AddChapter(00056103,No Title)
+# Chapter 032: 00:39:57
+AddChapter(00057485,No Title)
+# Chapter 033: 00:40:57
+AddChapter(00058914,No Title)
+# Chapter 034: 00:41:41
+AddChapter(00059968,No Title)
