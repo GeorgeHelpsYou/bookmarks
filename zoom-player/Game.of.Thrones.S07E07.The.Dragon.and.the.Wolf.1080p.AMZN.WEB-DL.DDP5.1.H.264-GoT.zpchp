@@ -9,41 +9,49 @@
 //
 # Chapter 000: 00:03:27
 AddChapterBySecond("207.366","Bronn oversees the fortifications")
-# Chapter 001: 00:25:57
-AddChapterBySecond("1557.446","No Title")
-# Chapter 002: 00:27:42
-AddChapterBySecond("1662.597","No Title")
-# Chapter 003: 00:28:36
-AddChapterBySecond("1716.907","No Title")
-# Chapter 004: 00:28:52
-AddChapterBySecond("1732.820","No Title")
-# Chapter 005: 00:34:06
-AddChapterBySecond("2046.037","No Title")
-# Chapter 006: 00:38:59
-AddChapterBySecond("2339.705","No Title")
-# Chapter 007: 00:40:33
-AddChapterBySecond("2433.347","No Title")
-# Chapter 008: 00:56:08
-AddChapterBySecond("3368.395","No Title")
-# Chapter 009: 01:01:14
-AddChapterBySecond("3674.840","No Title")
-# Chapter 010: 01:09:03
-AddChapterBySecond("4143.782","No Title")
-# Chapter 011: 01:09:48
-AddChapterBySecond("4188.718","No Title")
-# Chapter 012: 01:10:24
-AddChapterBySecond("4224.413","No Title")
-# Chapter 013: 01:10:32
-AddChapterBySecond("4232.019","No Title")
-# Chapter 014: 01:11:10
-AddChapterBySecond("4270.550","No Title")
-# Chapter 015: 01:11:22
-AddChapterBySecond("4282.326","No Title")
-# Chapter 016: 01:11:43
-AddChapterBySecond("4303.076","No Title")
-# Chapter 017: 00:19:05
+# Chapter 001: 00:19:05
 AddChapterBySecond("1145.550","No Title")
-# Chapter 018: 00:20:51
+# Chapter 002: 00:20:51
 AddChapterBySecond("1251.001","No Title")
-# Chapter 019: 00:22:05
+# Chapter 003: 00:22:05
 AddChapterBySecond("1325.127","No Title")
+# Chapter 004: 00:25:57
+AddChapterBySecond("1557.446","No Title")
+# Chapter 005: 00:27:42
+AddChapterBySecond("1662.597","No Title")
+# Chapter 006: 00:28:36
+AddChapterBySecond("1716.907","No Title")
+# Chapter 007: 00:28:52
+AddChapterBySecond("1732.820","No Title")
+# Chapter 008: 00:34:06
+AddChapterBySecond("2046.037","No Title")
+# Chapter 009: 00:38:59
+AddChapterBySecond("2339.672","No Title")
+# Chapter 010: 00:40:33
+AddChapterBySecond("2433.347","No Title")
+# Chapter 011: 00:43:17
+AddChapterBySecond("2597.545","No Title")
+# Chapter 012: 00:56:08
+AddChapterBySecond("3368.395","No Title")
+# Chapter 013: 00:58:37
+AddChapterBySecond("3517.114","No Title")
+# Chapter 014: 01:01:14
+AddChapterBySecond("3674.840","No Title")
+# Chapter 015: 01:09:03
+AddChapterBySecond("4143.782","No Title")
+# Chapter 016: 01:09:48
+AddChapterBySecond("4188.718","No Title")
+# Chapter 017: 01:10:24
+AddChapterBySecond("4224.413","No Title")
+# Chapter 018: 01:10:32
+AddChapterBySecond("4232.019","No Title")
+# Chapter 019: 01:11:10
+AddChapterBySecond("4270.550","No Title")
+# Chapter 020: 01:11:22
+AddChapterBySecond("4282.326","No Title")
+# Chapter 021: 01:11:43
+AddChapterBySecond("4303.076","No Title")
+# Chapter 022: 01:11:09
+AddChapterBySecond("4269.983","No Title")
+# Chapter 023: 01:13:41
+AddChapterBySecond("4421.604","No Title")
