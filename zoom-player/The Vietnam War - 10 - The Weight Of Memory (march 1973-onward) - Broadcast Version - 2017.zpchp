@@ -7,13 +7,7 @@
 // Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
 // Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
 //
-# Chapter 000: 00:12:16
-AddChapterBySecond("736.890","No Title")
-# Chapter 001: 00:38:22
-AddChapterBySecond("2302.075","No Title")
-# Chapter 002: 00:40:45
-AddChapterBySecond("2445.990","No Title")
-# Chapter 003: 00:01:56
-AddChapterBySecond("116.426","No Title")
-# Chapter 004: 00:05:05
-AddChapterBySecond("305.244","No Title")
+# Chapter 000: 00:07:52
+AddChapterBySecond("472.178","No Title")
+# Chapter 001: 00:08:35
+AddChapterBySecond("515.446","No Title")
