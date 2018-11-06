@@ -1,0 +1,45 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:50
+AddChapterBySecond("50.007","Alone at the sea")
+# Chapter 002: 00:01:46
+AddChapterBySecond("106.986","A taste of revenge")
+# Chapter 003: 00:07:40
+AddChapterBySecond("460.001","Who is the leader")
+# Chapter 004: 00:10:58
+AddChapterBySecond("658.994","Act sooner rather than later")
+# Chapter 005: 00:16:31
+AddChapterBySecond("991.994","Every hope of success")
+# Chapter 006: 00:21:26
+AddChapterBySecond("1286.996","Not like this")
+# Chapter 007: 00:23:01
+AddChapterBySecond("1381.005","Heading to York")
+# Chapter 008: 00:23:45
+AddChapterBySecond("1425.007","About King Harald&aposs plan")
+# Chapter 009: 00:26:06
+AddChapterBySecond("1566.987","Let God lead the way")
+# Chapter 010: 00:26:41
+AddChapterBySecond("1601.014","A score to settle with the sons of Ragnar")
+# Chapter 011: 00:31:20
+AddChapterBySecond("1880.004","Guided by the bird")
+# Chapter 012: 00:38:24
+AddChapterBySecond("2304.010","Doubts about Lagertha")
+# Chapter 013: 00:39:15
+AddChapterBySecond("2355.985","The land of the Gods")
+# Chapter 014: 00:41:19
+AddChapterBySecond("2479.984","Ready to battle")
+# Chapter 015: 00:43:16
+AddChapterBySecond("2596.010","End Credits")
+# Chapter 016: 00:03:34
+AddChapterBySecond("214.872","No Title")
+# Chapter 017: 00:40:52
+AddChapterBySecond("2452.662","No Title")

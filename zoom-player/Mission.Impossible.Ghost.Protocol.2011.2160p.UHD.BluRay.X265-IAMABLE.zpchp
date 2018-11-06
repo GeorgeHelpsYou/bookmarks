@@ -1,0 +1,55 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","00:00:00.000")
+# Chapter 001: 00:04:42
+AddChapterBySecond("282.693","00:04:42.741")
+# Chapter 002: 00:11:29
+AddChapterBySecond("689.685","00:11:29.731")
+# Chapter 003: 00:20:02
+AddChapterBySecond("1202.796","00:20:02.785")
+# Chapter 004: 00:27:36
+AddChapterBySecond("1656.125","00:27:36.154")
+# Chapter 005: 00:33:28
+AddChapterBySecond("2008.974","00:33:29.007")
+# Chapter 006: 00:38:19
+AddChapterBySecond("2299.373","00:38:19.422")
+# Chapter 007: 00:44:46
+AddChapterBySecond("2686.950","00:44:46.934")
+# Chapter 008: 00:51:38
+AddChapterBySecond("3098.012","00:51:38.053")
+# Chapter 009: 00:56:05
+AddChapterBySecond("3365.993","00:56:05.988")
+# Chapter 010: 00:56:09
+AddChapterBySecond("3369.529","No Title")
+# Chapter 011: 01:01:29
+AddChapterBySecond("3689.018","No Title")
+# Chapter 012: 01:02:51
+AddChapterBySecond("3771.017","01:02:51.017")
+# Chapter 013: 01:09:18
+AddChapterBySecond("4158.627","01:09:18.654")
+# Chapter 014: 01:16:33
+AddChapterBySecond("4593.208","01:16:33.214")
+# Chapter 015: 01:22:19
+AddChapterBySecond("4939.318","01:22:19.351")
+# Chapter 016: 01:31:17
+AddChapterBySecond("5477.849","01:31:17.889")
+# Chapter 017: 01:35:58
+AddChapterBySecond("5758.207","01:35:58.211")
+# Chapter 018: 01:42:50
+AddChapterBySecond("6170.737","01:42:50.748")
+# Chapter 019: 01:51:02
+AddChapterBySecond("6662.597","01:51:02.614")
+# Chapter 020: 01:58:27
+AddChapterBySecond("7107.186","01:58:27.225")
+# Chapter 021: 02:05:59
+AddChapterBySecond("7559.648","02:05:59.677")
+# Chapter 022: 01:01:28
+AddChapterBySecond("3688.985","No Title")

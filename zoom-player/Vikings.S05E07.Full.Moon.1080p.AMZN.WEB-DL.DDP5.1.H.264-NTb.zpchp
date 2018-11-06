@@ -1,0 +1,73 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:51
+AddChapterBySecond("51.007","Waiting for the full moon")
+# Chapter 002: 00:01:38
+AddChapterBySecond("98.012","Bjorn arrives home")
+# Chapter 003: 00:03:27
+AddChapterBySecond("208.000","The journey to find the land of Gods")
+# Chapter 004: 00:03:59
+AddChapterBySecond("239.992","Welcome home and fight the war")
+# Chapter 005: 00:08:58
+AddChapterBySecond("538.998","The new settlement")
+# Chapter 006: 00:10:55
+AddChapterBySecond("655.991","It&aposs finished")
+# Chapter 007: 00:17:08
+AddChapterBySecond("1028.990","A talk between mother and son")
+# Chapter 008: 00:19:02
+AddChapterBySecond("1142.014","Fate or free will")
+# Chapter 009: 00:22:05
+AddChapterBySecond("1325.994","The happiest man in Midgard")
+# Chapter 010: 00:23:51
+AddChapterBySecond("1431.011","Waiting for a sign")
+# Chapter 011: 00:24:54
+AddChapterBySecond("1494.996","King Harald shares the news")
+# Chapter 012: 00:25:27
+AddChapterBySecond("1527.989","Bjorn has his moment with princess Snaefrid")
+# Chapter 013: 00:30:02
+AddChapterBySecond("1802.008","A new kind of world")
+# Chapter 014: 00:31:58
+AddChapterBySecond("1918.001","Reinforcement for the war")
+# Chapter 015: 00:32:17
+AddChapterBySecond("1937.016","Alfred shares his thoughts at the monastery")
+# Chapter 016: 00:35:46
+AddChapterBySecond("2146.984","The moon analogy")
+# Chapter 017: 00:39:13
+AddChapterBySecond("2353.016","The strategy to defend Kattegat")
+# Chapter 018: 00:41:40
+AddChapterBySecond("2500.000","Praying with the father")
+# Chapter 019: 00:43:24
+AddChapterBySecond("2604.017","It&aposs time")
+# Chapter 020: 00:43:48
+AddChapterBySecond("2628.002","End Credits")
+# Chapter 021: 00:06:59
+AddChapterBySecond("419.903","No Title")
+# Chapter 022: 00:10:00
+AddChapterBySecond("600.247","No Title")
+# Chapter 023: 00:11:28
+AddChapterBySecond("688.017","No Title")
+# Chapter 024: 00:13:09
+AddChapterBySecond("789.465","No Title")
+# Chapter 025: 00:15:29
+AddChapterBySecond("929.010","No Title")
+# Chapter 026: 00:16:37
+AddChapterBySecond("997.231","No Title")
+# Chapter 027: 00:20:55
+AddChapterBySecond("1255.037","No Title")
+# Chapter 028: 00:25:41
+AddChapterBySecond("1541.567","No Title")
+# Chapter 029: 00:30:14
+AddChapterBySecond("1814.118","No Title")
+# Chapter 030: 00:38:08
+AddChapterBySecond("2288.164","No Title")
+# Chapter 031: 00:43:42
+AddChapterBySecond("2622.465","No Title")

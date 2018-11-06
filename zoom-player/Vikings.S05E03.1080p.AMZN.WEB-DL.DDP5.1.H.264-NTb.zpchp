@@ -1,0 +1,43 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:50
+AddChapterBySecond("50.007","Among the Gods")
+# Chapter 002: 00:02:29
+AddChapterBySecond("149.987","The King is returned")
+# Chapter 003: 00:05:04
+AddChapterBySecond("304.010","A sacrifice for the Gods")
+# Chapter 004: 00:08:42
+AddChapterBySecond("522.985","The right time to attack")
+# Chapter 005: 00:09:26
+AddChapterBySecond("566.987","The reasons of Halfdan")
+# Chapter 006: 00:11:01
+AddChapterBySecond("661.996","Time to battle")
+# Chapter 007: 00:16:15
+AddChapterBySecond("975.013","Come out and fight")
+# Chapter 008: 00:22:52
+AddChapterBySecond("1372.998","Different interests")
+# Chapter 009: 00:24:23
+AddChapterBySecond("1463.004","Not an easy choice for Astrid")
+# Chapter 010: 00:26:28
+AddChapterBySecond("1588.004","Sneaking out")
+# Chapter 011: 00:27:03
+AddChapterBySecond("1623.999","It&aposs not that easy")
+# Chapter 012: 00:29:15
+AddChapterBySecond("1755.004","Ubbe and Hvitserk try to make peace")
+# Chapter 013: 00:37:36
+AddChapterBySecond("2256.005","Finding the answers")
+# Chapter 014: 00:41:25
+AddChapterBySecond("2485.989","Everyone is with me")
+# Chapter 015: 00:43:16
+AddChapterBySecond("2596.010","End Credits")
+# Chapter 016: 00:10:00
+AddChapterBySecond("600.447","No Title")

@@ -1,4 +1,4 @@
-// Zoom Player v12.7 Chapter file.
+// Zoom Player v14.3 Chapter file.
 //
 // Usage   : AddChapter(FrameNumber,Chapter Title)
 // Example : AddChapter(1245,The break in)
@@ -9,5 +9,9 @@
 //
 # Chapter 000: 00:17:10
 AddChapterBySecond("1030.091","No Title")
-# Chapter 001: 00:32:05
-AddChapterBySecond("1925.707","No Title")
+# Chapter 001: 00:18:24
+AddChapterBySecond("1104.884","No Title")
+# Chapter 002: 00:32:05
+AddChapterBySecond("1925.674","No Title")
+# Chapter 003: 00:23:19
+AddChapterBySecond("1399.186","No Title")

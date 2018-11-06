@@ -1,0 +1,61 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:50
+AddChapterBySecond("50.007","A new land lies ahead")
+# Chapter 002: 00:03:16
+AddChapterBySecond("196.991","Bishop Heahmund&aposs vision")
+# Chapter 003: 00:05:56
+AddChapterBySecond("356.986","Ubbe arrives in Kattegat")
+# Chapter 004: 00:10:50
+AddChapterBySecond("650.987","We are traders")
+# Chapter 005: 00:12:09
+AddChapterBySecond("729.017","Foodless")
+# Chapter 006: 00:14:55
+AddChapterBySecond("895.016","Between loyalty and betrayal")
+# Chapter 007: 00:16:36
+AddChapterBySecond("996.998","A reinforcement for King Aethelwulf")
+# Chapter 008: 00:18:22
+AddChapterBySecond("1102.015","The Northmen arrive in Sicily")
+# Chapter 009: 00:23:13
+AddChapterBySecond("1393.014","Too much knowledge is an agony")
+# Chapter 010: 00:24:25
+AddChapterBySecond("1465.005","A sign of the right choice")
+# Chapter 011: 00:25:02
+AddChapterBySecond("1502.002","Nothing is as it seems")
+# Chapter 012: 00:28:13
+AddChapterBySecond("1693.989","Who is the commander")
+# Chapter 013: 00:30:32
+AddChapterBySecond("1833.000","Ivar starts his plan")
+# Chapter 014: 00:31:45
+AddChapterBySecond("1905.991","Thanking the Gods")
+# Chapter 015: 00:33:44
+AddChapterBySecond("2024.987","Astrid announces her decision")
+# Chapter 016: 00:37:47
+AddChapterBySecond("2267.014","Following the signs")
+# Chapter 017: 00:39:06
+AddChapterBySecond("2346.010","A request for Euphemius")
+# Chapter 018: 00:40:53
+AddChapterBySecond("2453.997","The destiny of York")
+# Chapter 019: 00:42:57
+AddChapterBySecond("2577.996","End Credits")
+# Chapter 020: 00:08:09
+AddChapterBySecond("489.091","No Title")
+# Chapter 021: 00:14:12
+AddChapterBySecond("852.982","No Title")
+# Chapter 022: 00:15:27
+AddChapterBySecond("927.309","No Title")
+# Chapter 023: 00:19:57
+AddChapterBySecond("1197.258","No Title")
+# Chapter 024: 00:34:31
+AddChapterBySecond("2071.791","No Title")
+# Chapter 025: 00:42:46
+AddChapterBySecond("2566.019","No Title")

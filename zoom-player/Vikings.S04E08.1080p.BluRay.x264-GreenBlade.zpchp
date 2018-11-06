@@ -1,0 +1,29 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","00:00:00.000")
+# Chapter 001: 00:01:37
+AddChapterBySecond("97.978","00:01:37.973")
+# Chapter 002: 00:11:39
+AddChapterBySecond("699.526","00:11:39.532")
+# Chapter 003: 00:23:40
+AddChapterBySecond("1420.837","00:23:40.836")
+# Chapter 004: 00:33:20
+AddChapterBySecond("2000.467","00:33:20.457")
+# Chapter 005: 00:45:14
+AddChapterBySecond("2714.071","00:45:14.086")
+# Chapter 006: 00:11:25
+AddChapterBySecond("685.115","No Title")
+# Chapter 007: 00:25:44
+AddChapterBySecond("1544.169","No Title")
+# Chapter 008: 00:26:04
+AddChapterBySecond("1564.418","No Title")
+# Chapter 009: 00:29:20
+AddChapterBySecond("1760.375","No Title")
