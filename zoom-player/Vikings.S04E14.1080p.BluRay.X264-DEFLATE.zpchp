@@ -9,53 +9,55 @@
 //
 # Chapter 000: 00:00:00
 AddChapterBySecond("0.000","00:00:00.000")
-# Chapter 001: 00:05:02
+# Chapter 001: 00:02:00
+AddChapterBySecond("120.930","No Title")
+# Chapter 002: 00:03:00
+AddChapterBySecond("180.111","No Title")
+# Chapter 003: 00:04:00
+AddChapterBySecond("240.359","No Title")
+# Chapter 004: 00:05:02
 AddChapterBySecond("302.709","00:05:02.719")
-# Chapter 002: 00:09:35
-AddChapterBySecond("575.827","00:09:35.825")
-# Chapter 003: 00:11:58
-AddChapterBySecond("718.775","00:11:58.760")
-# Chapter 004: 00:19:35
-AddChapterBySecond("1175.173","00:19:35.174")
-# Chapter 005: 00:21:25
-AddChapterBySecond("1285.695","00:21:25.701")
-# Chapter 006: 00:25:36
-AddChapterBySecond("1536.329","00:25:36.326")
-# Chapter 007: 00:30:50
-AddChapterBySecond("1850.480","00:30:50.474")
-# Chapter 008: 00:35:18
-AddChapterBySecond("2118.228","00:35:18.241")
-# Chapter 009: 00:38:53
-AddChapterBySecond("2333.400","00:38:53.414")
-# Chapter 010: 00:40:49
-AddChapterBySecond("2449.393","00:40:49.405")
-# Chapter 011: 00:44:03
-AddChapterBySecond("2643.548","00:44:03.557")
-# Chapter 012: 00:02:00
-AddChapterBySecond("120.963","No Title")
-# Chapter 013: 00:03:00
-AddChapterBySecond("180.144","No Title")
-# Chapter 014: 00:04:00
-AddChapterBySecond("240.392","No Title")
-# Chapter 015: 00:05:53
+# Chapter 005: 00:05:53
 AddChapterBySecond("353.216","No Title")
-# Chapter 016: 00:06:56
-AddChapterBySecond("416.366","No Title")
-# Chapter 017: 00:12:51
-AddChapterBySecond("771.317","No Title")
-# Chapter 018: 00:15:15
+# Chapter 006: 00:06:56
+AddChapterBySecond("416.333","No Title")
+# Chapter 007: 00:09:35
+AddChapterBySecond("575.794","00:09:35.825")
+# Chapter 008: 00:11:58
+AddChapterBySecond("718.742","00:11:58.760")
+# Chapter 009: 00:12:51
+AddChapterBySecond("771.284","No Title")
+# Chapter 010: 00:15:15
 AddChapterBySecond("915.833","No Title")
-# Chapter 019: 00:16:06
+# Chapter 011: 00:16:06
 AddChapterBySecond("966.440","No Title")
-# Chapter 020: 00:17:18
+# Chapter 012: 00:17:18
 AddChapterBySecond("1038.965","No Title")
-# Chapter 021: 00:19:59
-AddChapterBySecond("1199.593","No Title")
-# Chapter 022: 00:22:53
+# Chapter 013: 00:19:35
+AddChapterBySecond("1175.140","00:19:35.174")
+# Chapter 014: 00:19:59
+AddChapterBySecond("1199.560","No Title")
+# Chapter 015: 00:21:25
+AddChapterBySecond("1285.662","00:21:25.701")
+# Chapter 016: 00:22:53
 AddChapterBySecond("1373.132","No Title")
-# Chapter 023: 00:30:58
-AddChapterBySecond("1858.620","No Title")
-# Chapter 024: 00:38:55
-AddChapterBySecond("2335.068","No Title")
-# Chapter 025: 00:41:52
-AddChapterBySecond("2512.643","No Title")
+# Chapter 017: 00:25:36
+AddChapterBySecond("1536.296","00:25:36.326")
+# Chapter 018: 00:30:50
+AddChapterBySecond("1850.447","00:30:50.474")
+# Chapter 019: 00:30:58
+AddChapterBySecond("1858.587","No Title")
+# Chapter 020: 00:35:18
+AddChapterBySecond("2118.228","00:35:18.241")
+# Chapter 021: 00:38:53
+AddChapterBySecond("2333.367","00:38:53.414")
+# Chapter 022: 00:38:55
+AddChapterBySecond("2335.035","No Title")
+# Chapter 023: 00:40:49
+AddChapterBySecond("2449.393","00:40:49.405")
+# Chapter 024: 00:41:52
+AddChapterBySecond("2512.610","No Title")
+# Chapter 025: 00:44:03
+AddChapterBySecond("2643.515","00:44:03.557")
+# Chapter 026: 00:04:09
+AddChapterBySecond("249.867","No Title")

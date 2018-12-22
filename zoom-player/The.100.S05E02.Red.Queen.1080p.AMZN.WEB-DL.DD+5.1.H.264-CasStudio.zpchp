@@ -10,9 +10,9 @@
 # Chapter 000: 00:00:57
 AddChapterBySecond("57.079","No Title")
 # Chapter 001: 00:02:07
-AddChapterBySecond("127.635","No Title")
+AddChapterBySecond("127.569","No Title")
 # Chapter 002: 00:03:57
-AddChapterBySecond("237.156","No Title")
+AddChapterBySecond("237.090","No Title")
 # Chapter 003: 00:05:30
 AddChapterBySecond("330.798","No Title")
 # Chapter 004: 00:07:10
@@ -20,21 +20,21 @@ AddChapterBySecond("430.378","No Title")
 # Chapter 005: 00:09:07
 AddChapterBySecond("547.705","No Title")
 # Chapter 006: 00:10:27
-AddChapterBySecond("627.335","No Title")
+AddChapterBySecond("627.302","No Title")
 # Chapter 007: 00:11:14
-AddChapterBySecond("674.873","No Title")
+AddChapterBySecond("674.840","No Title")
 # Chapter 008: 00:13:28
 AddChapterBySecond("808.914","No Title")
 # Chapter 009: 00:14:48
-AddChapterBySecond("888.844","No Title")
+AddChapterBySecond("888.778","No Title")
 # Chapter 010: 00:18:38
 AddChapterBySecond("1118.195","No Title")
 # Chapter 011: 00:19:16
-AddChapterBySecond("1156.625","No Title")
+AddChapterBySecond("1156.592","No Title")
 # Chapter 012: 00:19:47
 AddChapterBySecond("1187.083","No Title")
 # Chapter 013: 00:20:27
-AddChapterBySecond("1227.882","No Title")
+AddChapterBySecond("1227.849","No Title")
 # Chapter 014: 00:24:21
 AddChapterBySecond("1461.603","No Title")
 # Chapter 015: 00:24:56
@@ -44,8 +44,14 @@ AddChapterBySecond("1578.196","No Title")
 # Chapter 017: 00:30:43
 AddChapterBySecond("1843.008","No Title")
 # Chapter 018: 00:31:19
-AddChapterBySecond("1879.770","No Title")
-# Chapter 019: 00:34:36
-AddChapterBySecond("2076.928","No Title")
-# Chapter 020: 00:35:22
-AddChapterBySecond("2122.531","No Title")
+AddChapterBySecond("1879.704","No Title")
+# Chapter 019: 00:32:38
+AddChapterBySecond("1958.300","No Title")
+# Chapter 020: 00:34:36
+AddChapterBySecond("2076.895","No Title")
+# Chapter 021: 00:35:22
+AddChapterBySecond("2122.498","No Title")
+# Chapter 022: 00:26:26
+AddChapterBySecond("1586.169","No Title")
+# Chapter 023: 00:27:12
+AddChapterBySecond("1632.206","No Title")
