@@ -1,4 +1,4 @@
-// Zoom Player v13.7 Chapter file.
+// Zoom Player v14.3 Chapter file.
 //
 // Usage   : AddChapter(FrameNumber,Chapter Title)
 // Example : AddChapter(1245,The break in)
@@ -10,62 +10,74 @@
 # Chapter 000: 00:04:42
 AddChapterBySecond("282.449","No Title")
 # Chapter 001: 00:05:08
-AddChapterBySecond("308.725","No Title")
+AddChapterBySecond("308.684","No Title")
 # Chapter 002: 00:07:05
 AddChapterBySecond("425.217","No Title")
-# Chapter 003: 00:07:57
-AddChapterBySecond("477.894","No Title")
-# Chapter 004: 00:08:25
-AddChapterBySecond("505.505","No Title")
-# Chapter 005: 00:09:31
+# Chapter 003: 00:07:05
+AddChapterBySecond("425.509","No Title")
+# Chapter 004: 00:07:57
+AddChapterBySecond("477.853","No Title")
+# Chapter 005: 00:08:25
+AddChapterBySecond("505.464","No Title")
+# Chapter 006: 00:09:31
 AddChapterBySecond("571.822","No Title")
-# Chapter 006: 00:10:30
+# Chapter 007: 00:10:30
 AddChapterBySecond("630.130","No Title")
-# Chapter 007: 00:12:27
+# Chapter 008: 00:12:27
 AddChapterBySecond("747.706","No Title")
-# Chapter 008: 00:14:22
-AddChapterBySecond("862.320","No Title")
-# Chapter 009: 00:20:09
-AddChapterBySecond("1209.375","No Title")
-# Chapter 010: 00:22:28
+# Chapter 009: 00:14:22
+AddChapterBySecond("862.279","No Title")
+# Chapter 010: 00:20:09
+AddChapterBySecond("1209.334","No Title")
+# Chapter 011: 00:22:28
 AddChapterBySecond("1348.640","No Title")
-# Chapter 011: 00:23:15
+# Chapter 012: 00:23:15
 AddChapterBySecond("1395.687","No Title")
-# Chapter 012: 00:23:58
-AddChapterBySecond("1438.354","No Title")
-# Chapter 013: 00:25:47
+# Chapter 013: 00:23:58
+AddChapterBySecond("1438.313","No Title")
+# Chapter 014: 00:25:47
 AddChapterBySecond("1547.297","No Title")
-# Chapter 014: 00:26:31
-AddChapterBySecond("1591.257","No Title")
-# Chapter 015: 00:27:24
+# Chapter 015: 00:26:31
+AddChapterBySecond("1591.215","No Title")
+# Chapter 016: 00:27:24
 AddChapterBySecond("1644.352","No Title")
-# Chapter 016: 00:29:10
-AddChapterBySecond("1750.583","No Title")
-# Chapter 017: 00:29:37
+# Chapter 017: 00:29:10
+AddChapterBySecond("1750.541","No Title")
+# Chapter 018: 00:29:22
+AddChapterBySecond("1762.804","No Title")
+# Chapter 019: 00:29:37
 AddChapterBySecond("1777.652","No Title")
-# Chapter 018: 00:31:21
-AddChapterBySecond("1881.297","No Title")
-# Chapter 019: 00:36:06
-AddChapterBySecond("2166.707","No Title")
-# Chapter 020: 00:36:39
-AddChapterBySecond("2199.323","No Title")
-# Chapter 021: 00:36:51
+# Chapter 020: 00:31:21
+AddChapterBySecond("1881.255","No Title")
+# Chapter 021: 00:36:06
+AddChapterBySecond("2166.541","No Title")
+# Chapter 022: 00:36:06
+AddChapterBySecond("2166.666","No Title")
+# Chapter 023: 00:36:38
+AddChapterBySecond("2198.990","No Title")
+# Chapter 024: 00:36:39
+AddChapterBySecond("2199.282","No Title")
+# Chapter 025: 00:36:51
 AddChapterBySecond("2211.961","No Title")
-# Chapter 022: 00:37:01
-AddChapterBySecond("2221.512","No Title")
-# Chapter 023: 00:37:59
-AddChapterBySecond("2279.570","No Title")
-# Chapter 024: 00:40:07
-AddChapterBySecond("2407.573","No Title")
-# Chapter 025: 00:40:53
-AddChapterBySecond("2453.285","No Title")
-# Chapter 026: 00:07:05
-AddChapterBySecond("425.550","No Title")
-# Chapter 027: 00:29:22
-AddChapterBySecond("1762.845","No Title")
-# Chapter 028: 00:36:06
-AddChapterBySecond("2166.582","No Title")
-# Chapter 029: 00:36:39
-AddChapterBySecond("2199.031","No Title")
-# Chapter 030: 00:37:08
-AddChapterBySecond("2228.519","No Title")
+# Chapter 026: 00:37:01
+AddChapterBySecond("2221.470","No Title")
+# Chapter 027: 00:37:08
+AddChapterBySecond("2228.477","No Title")
+# Chapter 028: 00:37:59
+AddChapterBySecond("2279.528","No Title")
+# Chapter 029: 00:40:07
+AddChapterBySecond("2407.531","No Title")
+# Chapter 030: 00:40:53
+AddChapterBySecond("2453.244","No Title")
+# Chapter 031: 00:14:23
+AddChapterBySecond("863.822","No Title")
+# Chapter 032: 00:24:31
+AddChapterBySecond("1471.763","No Title")
+# Chapter 033: 00:29:11
+AddChapterBySecond("1751.334","No Title")
+# Chapter 034: 00:36:06
+AddChapterBySecond("2166.749","No Title")
+# Chapter 035: 00:36:39
+AddChapterBySecond("2199.699","No Title")
+# Chapter 036: 00:37:01
+AddChapterBySecond("2221.053","No Title")
