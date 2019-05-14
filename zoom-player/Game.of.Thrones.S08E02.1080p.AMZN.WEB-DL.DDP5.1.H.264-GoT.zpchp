@@ -1,0 +1,71 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Previously On")
+# Chapter 001: 00:00:42
+AddChapterBySecond("42.901","Opening Credits")
+# Chapter 002: 00:02:36
+AddChapterBySecond("156.926","The fate of a Lannister")
+# Chapter 003: 00:02:37
+AddChapterBySecond("157.159","No Title")
+# Chapter 004: 00:04:22
+AddChapterBySecond("262.777","No Title")
+# Chapter 005: 00:05:29
+AddChapterBySecond("329.664","No Title")
+# Chapter 006: 00:08:08
+AddChapterBySecond("488.858","The faces of death")
+# Chapter 007: 00:10:25
+AddChapterBySecond("625.067","No Title")
+# Chapter 008: 00:10:51
+AddChapterBySecond("651.922","Jaime makes a round of apologies")
+# Chapter 009: 00:11:04
+AddChapterBySecond("664.265","No Title")
+# Chapter 010: 00:17:10
+AddChapterBySecond("1030.925","What about the North")
+# Chapter 011: 00:17:21
+AddChapterBySecond("1041.967","No Title")
+# Chapter 012: 00:19:29
+AddChapterBySecond("1169.369","No Title")
+# Chapter 013: 00:20:48
+AddChapterBySecond("1248.599","No Title")
+# Chapter 014: 00:23:17
+AddChapterBySecond("1397.218","No Title")
+# Chapter 015: 00:23:40
+AddChapterBySecond("1420.937","The North plans for battle")
+# Chapter 016: 00:25:53
+AddChapterBySecond("1553.543","No Title")
+# Chapter 017: 00:27:54
+AddChapterBySecond("1674.440","No Title")
+# Chapter 018: 00:31:06
+AddChapterBySecond("1866.927","Night&aposs watch at Winterfell")
+# Chapter 019: 00:34:51
+AddChapterBySecond("2091.907","Sharing one last drink")
+# Chapter 020: 00:38:50
+AddChapterBySecond("2330.865","Seize the night")
+# Chapter 021: 00:44:36
+AddChapterBySecond("2676.942","A knight of the Seven Kingdoms")
+# Chapter 022: 00:46:16
+AddChapterBySecond("2776.388","No Title")
+# Chapter 023: 00:47:38
+AddChapterBySecond("2858.754","No Title")
+# Chapter 024: 00:48:46
+AddChapterBySecond("2926.942","Samwell passes on a gift to Jorah")
+# Chapter 025: 00:51:04
+AddChapterBySecond("3064.919","How about a song")
+# Chapter 026: 00:52:53
+AddChapterBySecond("3173.906","Jon confides in Danny")
+# Chapter 027: 00:57:17
+AddChapterBySecond("3437.884","End Credits")
+# Chapter 028: 00:58:38
+AddChapterBySecond("3518.882","Next On")
+# Chapter 029: 00:59:10
+AddChapterBySecond("3550.941","Inside the Episode")
+# Chapter 030: 00:51:40
+AddChapterBySecond("3100.614","No Title")

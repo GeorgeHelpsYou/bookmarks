@@ -1,0 +1,43 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:51
+AddChapterBySecond("51.007","Ivar lies")
+# Chapter 002: 00:06:13
+AddChapterBySecond("373.999","Helgi looks for Thorunn")
+# Chapter 003: 00:11:16
+AddChapterBySecond("676.007","Guts and Entrails")
+# Chapter 004: 00:13:28
+AddChapterBySecond("808.013","Alfred calls upon his Vikings")
+# Chapter 005: 00:16:34
+AddChapterBySecond("994.996","Floki&aposs revelation proves true")
+# Chapter 006: 00:18:41
+AddChapterBySecond("1121.998","Magnus talks to Bjorn")
+# Chapter 007: 00:22:32
+AddChapterBySecond("1352.015","Ivar offers mercy")
+# Chapter 008: 00:27:23
+AddChapterBySecond("1643.014","Destiny")
+# Chapter 009: 00:31:18
+AddChapterBySecond("1878.002","Aethelred&aposs moment")
+# Chapter 010: 00:37:25
+AddChapterBySecond("2245.997","Floki gives his decision")
+# Chapter 011: 00:40:23
+AddChapterBySecond("2423.005","Ivar confronts fate")
+# Chapter 012: 00:43:26
+AddChapterBySecond("2606.986","End Credits")
+# Chapter 013: 00:14:54
+AddChapterBySecond("894.315","No Title")
+# Chapter 014: 00:18:46
+AddChapterBySecond("1126.368","No Title")
+# Chapter 015: 00:33:34
+AddChapterBySecond("2014.245","No Title")
+# Chapter 016: 00:34:15
+AddChapterBySecond("2055.811","No Title")

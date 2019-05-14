@@ -1,0 +1,45 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:51
+AddChapterBySecond("51.007","Hail and Farewell")
+# Chapter 002: 00:03:08
+AddChapterBySecond("188.985","Cause for celebration")
+# Chapter 003: 00:05:12
+AddChapterBySecond("312.984","Changing the rules")
+# Chapter 004: 00:09:53
+AddChapterBySecond("593.008","No ordinary person")
+# Chapter 005: 00:13:38
+AddChapterBySecond("818.989","Vengeance or Mercy")
+# Chapter 006: 00:16:10
+AddChapterBySecond("970.009","Plotting")
+# Chapter 007: 00:18:46
+AddChapterBySecond("1126.001","Ivar visits his brother in the night")
+# Chapter 008: 00:21:10
+AddChapterBySecond("1270.983","Eyvind despairs")
+# Chapter 009: 00:23:12
+AddChapterBySecond("1392.014","Bjorn makes a deal")
+# Chapter 010: 00:27:02
+AddChapterBySecond("1622.998","The ax")
+# Chapter 011: 00:30:10
+AddChapterBySecond("1810.015","The Danes")
+# Chapter 012: 00:34:37
+AddChapterBySecond("2077.996","Aud greets her father when he returns")
+# Chapter 013: 00:38:12
+AddChapterBySecond("2292.000","Say it")
+# Chapter 014: 00:44:47
+AddChapterBySecond("2687.016","End Credits")
+# Chapter 015: 00:03:02
+AddChapterBySecond("182.513","No Title")
+# Chapter 016: 00:11:37
+AddChapterBySecond("697.525","No Title")
+# Chapter 017: 00:13:05
+AddChapterBySecond("785.028","No Title")

@@ -25,11 +25,13 @@ AddChapterBySecond("1701.995","00:28:22.034")
 AddChapterBySecond("1996.264","No Title")
 # Chapter 008: 00:35:01
 AddChapterBySecond("2101.815","00:35:01.808")
-# Chapter 009: 00:41:50
-AddChapterBySecond("2510.942","No Title")
-# Chapter 010: 00:42:12
-AddChapterBySecond("2532.126","00:42:12.113")
-# Chapter 011: 00:51:25
-AddChapterBySecond("3085.502","00:51:25.499")
-# Chapter 012: 00:41:08
+# Chapter 009: 00:41:08
 AddChapterBySecond("2468.642","No Title")
+# Chapter 010: 00:41:50
+AddChapterBySecond("2510.909","No Title")
+# Chapter 011: 00:42:12
+AddChapterBySecond("2532.126","00:42:12.113")
+# Chapter 012: 00:51:25
+AddChapterBySecond("3085.502","00:51:25.499")
+# Chapter 013: 00:39:28
+AddChapterBySecond("2368.295","No Title")

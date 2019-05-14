@@ -1,0 +1,39 @@
+// Zoom Player v14.3 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:50
+AddChapterBySecond("50.007","The King of Kattegat")
+# Chapter 002: 00:04:25
+AddChapterBySecond("265.012","Floki tries to appease the gods")
+# Chapter 003: 00:14:09
+AddChapterBySecond("849.013","Lagartha and Heahmund look for a solution")
+# Chapter 004: 00:20:25
+AddChapterBySecond("1225.013","Alfred addresses the court")
+# Chapter 005: 00:23:29
+AddChapterBySecond("1409.995","Rollo seeks Lagertha out")
+# Chapter 006: 00:27:42
+AddChapterBySecond("1662.997","Bjorn and Rollo talk")
+# Chapter 007: 00:30:29
+AddChapterBySecond("1829.997","Rollo makes his demands")
+# Chapter 008: 00:35:48
+AddChapterBySecond("2148.986","Ivar brings Margrethe back to Kattegat")
+# Chapter 009: 00:38:27
+AddChapterBySecond("2307.012","Ivar meets Freydis")
+# Chapter 010: 00:41:22
+AddChapterBySecond("2482.986","Lagertha enters English territory")
+# Chapter 011: 00:43:47
+AddChapterBySecond("2627.002","End Credits")
+# Chapter 012: 00:21:06
+AddChapterBySecond("1266.280","No Title")
+# Chapter 013: 00:30:56
+AddChapterBySecond("1856.685","No Title")
+# Chapter 014: 00:34:10
+AddChapterBySecond("2050.807","No Title")
