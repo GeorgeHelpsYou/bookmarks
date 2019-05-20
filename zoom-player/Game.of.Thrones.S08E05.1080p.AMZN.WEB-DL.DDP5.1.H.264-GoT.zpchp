@@ -7,61 +7,49 @@
 // Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
 // Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
 //
-# Chapter 000: 00:00:00
-AddChapterBySecond("0.000","Stay Tuned")
-# Chapter 001: 00:00:01
-AddChapterBySecond("1.935","Ratings")
-# Chapter 002: 00:00:06
-AddChapterBySecond("6.906","Previously On")
-# Chapter 003: 00:01:41
-AddChapterBySecond("101.915","Studio Logo")
-# Chapter 004: 00:01:47
-AddChapterBySecond("107.920","Opening Credits")
-# Chapter 005: 00:03:35
-AddChapterBySecond("215.906","The greater the risk&comma the greater the reward")
-# Chapter 006: 00:05:08
+# Chapter 000: 00:01:19
+AddChapterBySecond("79.130","No Title")
+# Chapter 001: 00:03:35
+AddChapterBySecond("215.873","The greater the risk&comma the greater the reward")
+# Chapter 002: 00:05:08
 AddChapterBySecond("308.914","Betrayal must be dealt with accordingly")
-# Chapter 007: 00:14:10
-AddChapterBySecond("850.914","Mercy is our strength")
-# Chapter 008: 00:20:10
-AddChapterBySecond("1210.935","Sail for a new life")
-# Chapter 009: 00:28:11
-AddChapterBySecond("1691.920","Preparing the city for battle")
-# Chapter 010: 00:33:56
+# Chapter 003: 00:06:05
+AddChapterBySecond("365.326","No Title")
+# Chapter 004: 00:06:51
+AddChapterBySecond("411.296","No Title")
+# Chapter 005: 00:14:10
+AddChapterBySecond("850.881","Mercy is our strength")
+# Chapter 006: 00:20:10
+AddChapterBySecond("1210.902","Sail for a new life")
+# Chapter 007: 00:28:11
+AddChapterBySecond("1691.887","Preparing the city for battle")
+# Chapter 008: 00:28:27
+AddChapterBySecond("1707.366","No Title")
+# Chapter 009: 00:33:56
 AddChapterBySecond("2036.930","The battle begins")
+# Chapter 010: 00:34:48
+AddChapterBySecond("2088.771","No Title")
 # Chapter 011: 00:39:08
-AddChapterBySecond("2348.912","The red keep has never fallen")
+AddChapterBySecond("2348.879","The red keep has never fallen")
 # Chapter 012: 00:40:43
 AddChapterBySecond("2443.922","Ring the bells")
 # Chapter 013: 00:45:48
-AddChapterBySecond("2748.932","Surrender means nothing")
+AddChapterBySecond("2748.899","Surrender means nothing")
 # Chapter 014: 00:51:04
 AddChapterBySecond("3064.919","Another one for the king-slayer")
 # Chapter 015: 00:56:01
 AddChapterBySecond("3361.923","The revenge game has no future")
 # Chapter 016: 00:57:43
-AddChapterBySecond("3463.904","The Clegane&aposs reunite")
+AddChapterBySecond("3463.871","The Clegane&aposs reunite")
 # Chapter 017: 01:07:56
-AddChapterBySecond("4076.928","Jon makes a decision")
+AddChapterBySecond("4076.895","Jon makes a decision")
 # Chapter 018: 01:08:56
 AddChapterBySecond("4136.910","Death is everywhere")
 # Chapter 019: 01:12:02
-AddChapterBySecond("4322.925","Nothing else matters")
+AddChapterBySecond("4322.892","Nothing else matters")
 # Chapter 020: 01:14:28
-AddChapterBySecond("4468.908","King&aposs Landing burns")
+AddChapterBySecond("4468.875","King&aposs Landing burns")
 # Chapter 021: 01:18:17
-AddChapterBySecond("4697.925","End Credits")
+AddChapterBySecond("4697.892","End Credits")
 # Chapter 022: 01:19:37
-AddChapterBySecond("4777.922","Next Week")
-# Chapter 023: 01:20:04
-AddChapterBySecond("4804.911","Inside the Episode")
-# Chapter 024: 00:01:19
-AddChapterBySecond("79.163","No Title")
-# Chapter 025: 00:06:05
-AddChapterBySecond("365.326","No Title")
-# Chapter 026: 00:06:51
-AddChapterBySecond("411.296","No Title")
-# Chapter 027: 00:28:27
-AddChapterBySecond("1707.366","No Title")
-# Chapter 028: 00:34:48
-AddChapterBySecond("2088.804","No Title")
+AddChapterBySecond("4777.889","Next Week")
