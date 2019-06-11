@@ -1,0 +1,57 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Studio Logo")
+# Chapter 001: 00:00:03
+AddChapterBySecond("3.970","Previously On")
+# Chapter 002: 00:00:50
+AddChapterBySecond("50.007","Title Sequence")
+# Chapter 003: 00:01:05
+AddChapterBySecond("65.953","Ira tells Chuck that he is not ready to lose Tiaga")
+# Chapter 004: 00:05:44
+AddChapterBySecond("344.976","Taylor gives an assignment to his employee")
+# Chapter 005: 00:06:51
+AddChapterBySecond("411.963","Bobby meets Bill McGann")
+# Chapter 006: 00:10:27
+AddChapterBySecond("627.969","Bobby refuses to fulfill Taylor&aposs demand")
+# Chapter 007: 00:15:13
+AddChapterBySecond("913.998","Bobby meets his employees for compensation meeting")
+# Chapter 008: 00:17:16
+AddChapterBySecond("1036.963","Chuck introduces Pete to Ira")
+# Chapter 009: 00:20:45
+AddChapterBySecond("1245.997","Wendy asks time from Taylor to convince Bobby")
+# Chapter 010: 00:22:59
+AddChapterBySecond("1379.971","Ari meets Bobby regarding compensation")
+# Chapter 011: 00:26:16
+AddChapterBySecond("1576.995","Wendy asks Bobby to reconsider his decision with Taylor&aposs compensation")
+# Chapter 012: 00:28:35
+AddChapterBySecond("1715.973","Wendy requests Lara to help Bobby")
+# Chapter 013: 00:30:49
+AddChapterBySecond("1849.013","Lara advises Bobby to keep his employees happy")
+# Chapter 014: 00:35:14
+AddChapterBySecond("2114.992","Good news for Taylor and Wendy")
+# Chapter 015: 00:36:59
+AddChapterBySecond("2219.009","Chuck gives a warning to Anthony")
+# Chapter 016: 00:40:48
+AddChapterBySecond("2448.993","Chuck asks for help from his father&comma Chuck Sr gives an advice to Taiga")
+# Chapter 017: 00:46:21
+AddChapterBySecond("2781.959","Orrin argues with Bobby over his fees")
+# Chapter 018: 00:47:11
+AddChapterBySecond("2831.832","No Title")
+# Chapter 019: 00:49:09
+AddChapterBySecond("2949.960","Bobby gives a gift to Mike")
+# Chapter 020: 00:52:32
+AddChapterBySecond("3152.956","Epstein joins hands with Chuck")
+# Chapter 021: 00:56:31
+AddChapterBySecond("3391.013","Taylor is ready to get into the business")
+# Chapter 022: 00:57:31
+AddChapterBySecond("3451.995","End Credits")
+# Chapter 023: 00:06:32
+AddChapterBySecond("392.014","No Title")

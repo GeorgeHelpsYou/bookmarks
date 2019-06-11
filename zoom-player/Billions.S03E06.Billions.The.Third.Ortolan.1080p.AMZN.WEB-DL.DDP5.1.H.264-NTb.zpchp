@@ -1,0 +1,65 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Previously On")
+# Chapter 001: 00:01:01
+AddChapterBySecond("61.015","Title Sequence")
+# Chapter 002: 00:01:16
+AddChapterBySecond("76.995","Chuck plans to bring down Bobby")
+# Chapter 003: 00:02:54
+AddChapterBySecond("174.006","Bobby and team attend an important meeting and ignore Spyros")
+# Chapter 004: 00:06:21
+AddChapterBySecond("381.005","Jack tells Chuck that he likes to meet Wendy")
+# Chapter 005: 00:08:39
+AddChapterBySecond("519.015","DeGiulio grants one week time to Connerty for providing the evidence")
+# Chapter 006: 00:13:41
+AddChapterBySecond("821.991","Aduba doubles his fees and Chuck agrees to it")
+# Chapter 007: 00:16:32
+AddChapterBySecond("992.994","Bach asks Bobby not to get paranoid")
+# Chapter 008: 00:17:32
+AddChapterBySecond("1052.008","Aduba calls off the deal")
+# Chapter 009: 00:18:59
+AddChapterBySecond("1139.011","Chuck tries to convince Spyros")
+# Chapter 010: 00:21:01
+AddChapterBySecond("1261.009","DeGiulio motivates Bryan")
+# Chapter 011: 00:22:28
+AddChapterBySecond("1348.012","Ari gives a shocker to Axelrod and team")
+# Chapter 012: 00:26:57
+AddChapterBySecond("1617.994","Bobby tells a bad news to Wendy")
+# Chapter 013: 00:29:49
+AddChapterBySecond("1789.999","Chuck decides to divert Bryan&aposs attention")
+# Chapter 014: 00:31:49
+AddChapterBySecond("1909.995","Bobby asks Orrin to give him some time to take a decision")
+# Chapter 015: 00:33:11
+AddChapterBySecond("1991.994","Bobby meets Lara and tells her about the plea")
+# Chapter 016: 00:36:24
+AddChapterBySecond("2184.014","Oscar comes to meet Taylor")
+# Chapter 017: 00:37:35
+AddChapterBySecond("2255.004","Bryan scares Wendy and Chuck")
+# Chapter 018: 00:41:21
+AddChapterBySecond("2481.986","Bobby and Wags have ortolan")
+# Chapter 019: 00:44:05
+AddChapterBySecond("2645.016","Chuck decides to surrender and Wendy disagrees with the decision")
+# Chapter 020: 00:48:16
+AddChapterBySecond("2896.984","Foley gives a piece of advice to Wendy")
+# Chapter 021: 00:52:31
+AddChapterBySecond("3151.988","An old friend comes to meet Bobby")
+# Chapter 022: 00:59:15
+AddChapterBySecond("3555.011","End Credits")
+# Chapter 023: 00:59:33
+AddChapterBySecond("3573.993","Next On")
+# Chapter 024: 00:04:52
+AddChapterBySecond("292.367","No Title")
+# Chapter 025: 00:28:50
+AddChapterBySecond("1730.351","No Title")
+# Chapter 026: 00:30:45
+AddChapterBySecond("1845.710","No Title")
+# Chapter 027: 00:50:44
+AddChapterBySecond("3044.502","No Title")

@@ -1,0 +1,87 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Ratings")
+# Chapter 001: 00:00:03
+AddChapterBySecond("3.870","Previously On")
+# Chapter 002: 00:00:57
+AddChapterBySecond("57.813","Opening Credits")
+# Chapter 003: 00:02:56
+AddChapterBySecond("176.808","What remains of King&aposs Landing")
+# Chapter 004: 00:05:52
+AddChapterBySecond("352.849","Following the queen&aposs orders")
+# Chapter 005: 00:07:28
+AddChapterBySecond("448.826","The last of House Lannister")
+# Chapter 006: 00:11:53
+AddChapterBySecond("713.838","Breaking the wheel")
+# Chapter 007: 00:21:13
+AddChapterBySecond("1273.819","Love is the death of duty")
+# Chapter 008: 00:30:18
+AddChapterBySecond("1818.822","Building a new world together")
+# Chapter 009: 00:42:44
+AddChapterBySecond("2564.852","Determining what&aposs best for the kingdom")
+# Chapter 010: 00:50:27
+AddChapterBySecond("3027.389","No Title")
+# Chapter 011: 00:56:16
+AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
+# Chapter 012: 01:03:42
+AddChapterBySecond("3822.825","Honoring a legacy")
+# Chapter 013: 01:05:45
+AddChapterBySecond("3945.857","A song of ice and fire")
+# Chapter 014: 01:11:15
+AddChapterBySecond("4275.821","And now my watch begins")
+# Chapter 015: 01:12:30
+AddChapterBySecond("4350.814","The last of house Stark")
+# Chapter 016: 01:18:08
+AddChapterBySecond("4688.818","End Credits")
+# Chapter 017: 00:14:46
+AddChapterBySecond("886.676","No Title")
+# Chapter 018: 00:16:23
+AddChapterBySecond("983.654","No Title")
+# Chapter 019: 00:18:13
+AddChapterBySecond("1093.708","No Title")
+# Chapter 020: 00:23:51
+AddChapterBySecond("1431.512","No Title")
+# Chapter 021: 00:24:45
+AddChapterBySecond("1485.622","No Title")
+# Chapter 022: 00:25:26
+AddChapterBySecond("1526.188","No Title")
+# Chapter 023: 00:27:25
+AddChapterBySecond("1645.650","No Title")
+# Chapter 024: 00:27:40
+AddChapterBySecond("1660.662","No Title")
+# Chapter 025: 00:35:36
+AddChapterBySecond("2136.910","No Title")
+# Chapter 026: 00:35:50
+AddChapterBySecond("2150.354","No Title")
+# Chapter 027: 00:36:56
+AddChapterBySecond("2216.406","No Title")
+# Chapter 028: 00:40:09
+AddChapterBySecond("2409.594","No Title")
+# Chapter 029: 00:50:03
+AddChapterBySecond("3003.870","No Title")
+# Chapter 030: 00:50:23
+AddChapterBySecond("3023.519","No Title")
+# Chapter 031: 00:50:52
+AddChapterBySecond("3052.709","No Title")
+# Chapter 032: 00:51:29
+AddChapterBySecond("3089.672","No Title")
+# Chapter 033: 00:51:46
+AddChapterBySecond("3106.485","No Title")
+# Chapter 034: 00:54:07
+AddChapterBySecond("3247.164","No Title")
+# Chapter 035: 00:55:34
+AddChapterBySecond("3334.468","No Title")
+# Chapter 036: 00:56:36
+AddChapterBySecond("3396.784","No Title")
+# Chapter 037: 00:57:39
+AddChapterBySecond("3459.901","No Title")
+# Chapter 038: 01:10:42
+AddChapterBySecond("4242.928","No Title")

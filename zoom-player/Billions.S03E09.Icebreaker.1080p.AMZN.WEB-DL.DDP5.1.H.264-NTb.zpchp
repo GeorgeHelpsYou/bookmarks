@@ -1,0 +1,61 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Studio Logo")
+# Chapter 001: 00:00:04
+AddChapterBySecond("4.003","Previously On")
+# Chapter 002: 00:01:07
+AddChapterBySecond("67.988","Title Sequence")
+# Chapter 003: 00:01:25
+AddChapterBySecond("85.001","Chuck and Jock go hunting&comma Bobby tries to make a deal")
+# Chapter 004: 00:05:36
+AddChapterBySecond("336.002","Kate prepares for Lugo&aposs case and Chuck guides her")
+# Chapter 005: 00:07:33
+AddChapterBySecond("453.997","Bill loses his dollar and get angry")
+# Chapter 006: 00:11:46
+AddChapterBySecond("706.999","Bobby goes to meet and convince Grigor")
+# Chapter 007: 00:14:44
+AddChapterBySecond("884.007","Bobby becomes unhappy due to Taylor")
+# Chapter 008: 00:16:29
+AddChapterBySecond("989.992","Chuck decides to take action")
+# Chapter 009: 00:18:56
+AddChapterBySecond("1136.009","Grigor and Bobby continue their conversation at Bobby&aposs place")
+# Chapter 010: 00:22:57
+AddChapterBySecond("1377.002","Wags explains Taylor about Bobby")
+# Chapter 011: 00:24:45
+AddChapterBySecond("1485.989","Kate meets Bryan at the bar")
+# Chapter 012: 00:26:15
+AddChapterBySecond("1575.994","Bobby asks a favor from Todd")
+# Chapter 013: 00:27:45
+AddChapterBySecond("1665.999","Bryan joins the FBI")
+# Chapter 014: 00:30:17
+AddChapterBySecond("1817.988","Taylor finds it difficult to understand Bobby&aposs strategy")
+# Chapter 015: 00:31:25
+AddChapterBySecond("1885.008","Grigor finally accepts the deal")
+# Chapter 016: 00:34:55
+AddChapterBySecond("2095.009","Bill loses his cool and fights with Ben")
+# Chapter 017: 00:37:11
+AddChapterBySecond("2231.986","Bill gets back his dollar")
+# Chapter 018: 00:38:35
+AddChapterBySecond("2315.986","Jock politely declines Chuck&aposs request")
+# Chapter 019: 00:41:22
+AddChapterBySecond("2482.986","Bobby and Wendy discuss about her charity")
+# Chapter 020: 00:42:28
+AddChapterBySecond("2548.005","Chuck becomes serious at Lonnie regarding a case")
+# Chapter 021: 00:46:13
+AddChapterBySecond("2773.986","Bobby and Grigor finally close the deal")
+# Chapter 022: 00:51:02
+AddChapterBySecond("3062.016","End Credits")
+# Chapter 023: 00:34:24
+AddChapterBySecond("2064.351","No Title")
+# Chapter 024: 00:35:02
+AddChapterBySecond("2102.949","No Title")
+# Chapter 025: 00:49:32
+AddChapterBySecond("2972.978","No Title")

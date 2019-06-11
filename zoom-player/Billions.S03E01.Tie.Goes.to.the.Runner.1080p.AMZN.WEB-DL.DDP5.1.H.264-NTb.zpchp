@@ -1,0 +1,71 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Studio Logo")
+# Chapter 001: 00:00:04
+AddChapterBySecond("4.003","Previously On")
+# Chapter 002: 00:01:58
+AddChapterBySecond("118.995","Studio Logo")
+# Chapter 003: 00:02:19
+AddChapterBySecond("139.011","Chuck talks with the General")
+# Chapter 004: 00:05:54
+AddChapterBySecond("354.017","Bill wants the funds to flow")
+# Chapter 005: 00:08:00
+AddChapterBySecond("480.985","Taylor tells everybody about the idea dinner")
+# Chapter 006: 00:12:33
+AddChapterBySecond("753.002","Oliver starts a conversation and Chuck gets uncomfortable with it")
+# Chapter 007: 00:17:55
+AddChapterBySecond("1075.994","Lara wants to check all the records")
+# Chapter 008: 00:20:22
+AddChapterBySecond("1222.011","Bobby lets Lara to check all the records")
+# Chapter 009: 00:24:17
+AddChapterBySecond("1458.000","Good to be back home")
+# Chapter 010: 00:25:14
+AddChapterBySecond("1514.011","Oliver promises to help Chuck")
+# Chapter 011: 00:28:38
+AddChapterBySecond("1718.008","Oliver politely refuses to reveal about the tipster")
+# Chapter 012: 00:30:25
+AddChapterBySecond("1825.994","Chuck asks a favor from Ira")
+# Chapter 013: 00:34:32
+AddChapterBySecond("2072.992","Wags rejects the suggestions from employees")
+# Chapter 014: 00:35:37
+AddChapterBySecond("2137.010","Mike asks Taylor if she is shopping for jobs")
+# Chapter 015: 00:37:58
+AddChapterBySecond("2278.990","Sr. Chuck denies an offer from Black Jack")
+# Chapter 016: 00:40:50
+AddChapterBySecond("2450.994","Bryan expects something in return")
+# Chapter 017: 00:42:48
+AddChapterBySecond("2568.989","Oliver asks Bryan to position themselves to win over Bobby")
+# Chapter 018: 00:44:20
+AddChapterBySecond("2660.995","Wendy gives an advice to Bobby")
+# Chapter 019: 00:46:52
+AddChapterBySecond("2812.984","Oliver tells a good news to Chuck")
+# Chapter 020: 00:48:10
+AddChapterBySecond("2890.012","Lara advises Bobby not to lose his money")
+# Chapter 021: 00:49:21
+AddChapterBySecond("2961.002","Taylor comes up with an idea")
+# Chapter 022: 00:51:33
+AddChapterBySecond("3093.008","Wendy tells the truth to Chuck")
+# Chapter 023: 00:55:31
+AddChapterBySecond("3331.999","Surprise guest at the meeting")
+# Chapter 024: 00:57:27
+AddChapterBySecond("3447.992","End Credits")
+# Chapter 025: 00:57:56
+AddChapterBySecond("3476.014","Next On")
+# Chapter 026: 00:12:12
+AddChapterBySecond("732.019","No Title")
+# Chapter 027: 00:12:33
+AddChapterBySecond("753.436","No Title")
+# Chapter 028: 00:15:13
+AddChapterBySecond("913.564","No Title")
+# Chapter 029: 00:55:32
+AddChapterBySecond("3332.599","No Title")
+# Chapter 030: 00:55:35
+AddChapterBySecond("3335.135","No Title")

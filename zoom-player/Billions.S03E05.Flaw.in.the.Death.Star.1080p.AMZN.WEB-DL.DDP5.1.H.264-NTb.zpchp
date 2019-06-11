@@ -1,0 +1,63 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Studio Logo")
+# Chapter 001: 00:00:04
+AddChapterBySecond("4.003","Previously On")
+# Chapter 002: 00:00:51
+AddChapterBySecond("51.007","Title Sequence")
+# Chapter 003: 00:01:07
+AddChapterBySecond("67.988","Bill gives money to Martin")
+# Chapter 004: 00:04:18
+AddChapterBySecond("258.006","Chuck asks favor from Wendy")
+# Chapter 005: 00:07:44
+AddChapterBySecond("464.005","Bobby asks Gilbert to reconsider his decision")
+# Chapter 006: 00:10:04
+AddChapterBySecond("604.017","Chuck meets Walter to explain about an incident from the past")
+# Chapter 007: 00:12:15
+AddChapterBySecond("735.989","Oscar asks Taylor to wait for the second pitch")
+# Chapter 008: 00:14:50
+AddChapterBySecond("890.012","Bill and Ari fight with each other and Wendy counsels them")
+# Chapter 009: 00:18:36
+AddChapterBySecond("1116.994","Bobby orders Timmy and Brian to search Gilbert&aposs office and home")
+# Chapter 010: 00:21:08
+AddChapterBySecond("1268.014","Kate asks Chuck about Lawrence")
+# Chapter 011: 00:23:51
+AddChapterBySecond("1431.011","Lawrence tells his demands to Chuck")
+# Chapter 012: 00:25:07
+AddChapterBySecond("1507.006","Bobby asks Bill to solve his own problem")
+# Chapter 013: 00:28:01
+AddChapterBySecond("1681.011","Gibert explains Bobby how he destroyed the sample")
+# Chapter 014: 00:31:03
+AddChapterBySecond("1863.991","Lawrence agrees to reveal the names")
+# Chapter 015: 00:33:25
+AddChapterBySecond("2005.004","Bobby arranges a meeting with Ari")
+# Chapter 016: 00:36:37
+AddChapterBySecond("2197.992","Chuck asks Gilbert to testify against Bobby")
+# Chapter 017: 00:38:16
+AddChapterBySecond("2296.003","Timmy and John collect information about Gilbert")
+# Chapter 018: 00:40:42
+AddChapterBySecond("2442.988","Karl and Kate manipulate the records")
+# Chapter 019: 00:43:51
+AddChapterBySecond("2631.005","Wendy asks Bobby if he trusts her")
+# Chapter 020: 00:45:18
+AddChapterBySecond("2718.008","Kate loses in court")
+# Chapter 021: 00:47:59
+AddChapterBySecond("2879.003","Bill apologizes to Ari in front of his colleagues")
+# Chapter 022: 00:51:30
+AddChapterBySecond("3090.005","Gilbert asks for money from Bobby")
+# Chapter 023: 00:54:53
+AddChapterBySecond("3293.001","End Credits")
+# Chapter 024: 00:55:15
+AddChapterBySecond("3315.986","Next On")
+# Chapter 025: 00:16:09
+AddChapterBySecond("969.042","No Title")
+# Chapter 026: 00:36:01
+AddChapterBySecond("2161.529","No Title")
