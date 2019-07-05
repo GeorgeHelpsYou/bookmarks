@@ -9,79 +9,89 @@
 //
 # Chapter 000: 00:00:00
 AddChapterBySecond("0.000","Studio Logo")
-# Chapter 001: 00:00:04
-AddChapterBySecond("4.003","Previously On")
+# Chapter 001: 00:00:03
+AddChapterBySecond("3.970","Previously On")
 # Chapter 002: 00:01:03
 AddChapterBySecond("63.985","Title Sequence")
 # Chapter 003: 00:01:24
 AddChapterBySecond("84.001","Foley asks Chuck to resign")
-# Chapter 004: 00:04:57
-AddChapterBySecond("297.004","Wendy tries to motivate Chuck")
-# Chapter 005: 00:07:00
-AddChapterBySecond("420.003","Bobby orders for a fresh start")
-# Chapter 006: 00:09:11
-AddChapterBySecond("551.007","Bobby explains his strategy to Wendy and Taylor")
-# Chapter 007: 00:11:38
-AddChapterBySecond("698.993","Todd gives an offer to Bobby")
-# Chapter 008: 00:15:05
-AddChapterBySecond("905.991","Bryan requests Kate to inform Chuck to see him")
-# Chapter 009: 00:17:14
-AddChapterBySecond("1034.995","Bobby offers a gift to Taylor")
-# Chapter 010: 00:18:19
-AddChapterBySecond("1099.013","Chuck asks for a favor from Bob Sweeney")
-# Chapter 011: 00:20:38
-AddChapterBySecond("1238.991","Bad news for Ari")
-# Chapter 012: 00:25:32
-AddChapterBySecond("1532.993","Lara gets angry at Wendy")
-# Chapter 013: 00:28:53
-AddChapterBySecond("1733.987","Chuck asks Bryan to leave the office")
-# Chapter 014: 00:31:49
-AddChapterBySecond("1909.995","Taylor gets upset after listening to Bobby")
-# Chapter 015: 00:33:40
-AddChapterBySecond("2020.016","Chuck spends time with the family")
-# Chapter 016: 00:34:46
-AddChapterBySecond("2086.002","Chuck spies on Foley")
-# Chapter 017: 00:37:50
-AddChapterBySecond("2270.016","Adam requests Chuck to stay as an attorney")
-# Chapter 018: 00:43:30
-AddChapterBySecond("2610.989","Bobby gives an advice to Wendy")
-# Chapter 019: 00:45:39
-AddChapterBySecond("2739.992","Ari comes up with a unique strategy")
-# Chapter 020: 00:47:33
-AddChapterBySecond("2853.016","Bobby tells his conditions to Lara")
-# Chapter 021: 00:49:34
-AddChapterBySecond("2974.013","Chuck gives a surprise to his father")
-# Chapter 022: 00:53:11
-AddChapterBySecond("3191.987","Bobby calls Helena")
-# Chapter 023: 00:55:12
-AddChapterBySecond("3312.984","Wendy warns Chuck")
-# Chapter 024: 00:57:21
-AddChapterBySecond("3441.987","End Credits")
-# Chapter 025: 00:03:17
+# Chapter 004: 00:03:17
 AddChapterBySecond("197.625","No Title")
-# Chapter 026: 00:05:58
-AddChapterBySecond("358.086","No Title")
-# Chapter 027: 00:07:19
-AddChapterBySecond("439.885","No Title")
-# Chapter 028: 00:14:49
-AddChapterBySecond("889.945","No Title")
-# Chapter 029: 00:33:21
+# Chapter 005: 00:04:56
+AddChapterBySecond("296.971","Wendy tries to motivate Chuck")
+# Chapter 006: 00:05:58
+AddChapterBySecond("358.053","No Title")
+# Chapter 007: 00:07:00
+AddChapterBySecond("420.003","Bobby orders for a fresh start")
+# Chapter 008: 00:07:19
+AddChapterBySecond("439.852","No Title")
+# Chapter 009: 00:09:10
+AddChapterBySecond("550.974","Bobby explains his strategy to Wendy and Taylor")
+# Chapter 010: 00:11:38
+AddChapterBySecond("698.993","Todd gives an offer to Bobby")
+# Chapter 011: 00:14:49
+AddChapterBySecond("889.912","No Title")
+# Chapter 012: 00:15:05
+AddChapterBySecond("905.958","Bryan requests Kate to inform Chuck to see him")
+# Chapter 013: 00:17:14
+AddChapterBySecond("1034.995","Bobby offers a gift to Taylor")
+# Chapter 014: 00:18:19
+AddChapterBySecond("1099.013","Chuck asks for a favor from Bob Sweeney")
+# Chapter 015: 00:20:38
+AddChapterBySecond("1238.958","Bad news for Ari")
+# Chapter 016: 00:25:32
+AddChapterBySecond("1532.960","Lara gets angry at Wendy")
+# Chapter 017: 00:28:53
+AddChapterBySecond("1733.954","Chuck asks Bryan to leave the office")
+# Chapter 018: 00:31:49
+AddChapterBySecond("1909.995","Taylor gets upset after listening to Bobby")
+# Chapter 019: 00:33:21
 AddChapterBySecond("2001.635","No Title")
-# Chapter 030: 00:39:30
-AddChapterBySecond("2370.029","No Title")
-# Chapter 031: 00:41:38
+# Chapter 020: 00:33:39
+AddChapterBySecond("2019.983","Chuck spends time with the family")
+# Chapter 021: 00:34:45
+AddChapterBySecond("2085.969","Chuck spies on Foley")
+# Chapter 022: 00:37:49
+AddChapterBySecond("2269.983","Adam requests Chuck to stay as an attorney")
+# Chapter 023: 00:39:29
+AddChapterBySecond("2369.996","No Title")
+# Chapter 024: 00:41:38
 AddChapterBySecond("2498.399","No Title")
-# Chapter 032: 00:44:30
+# Chapter 025: 00:43:30
+AddChapterBySecond("2610.989","Bobby gives an advice to Wendy")
+# Chapter 026: 00:44:30
 AddChapterBySecond("2670.303","No Title")
-# Chapter 033: 00:45:22
+# Chapter 027: 00:45:22
 AddChapterBySecond("2722.645","No Title")
-# Chapter 034: 00:48:05
+# Chapter 028: 00:45:39
+AddChapterBySecond("2739.992","Ari comes up with a unique strategy")
+# Chapter 029: 00:47:33
+AddChapterBySecond("2853.016","Bobby tells his conditions to Lara")
+# Chapter 030: 00:48:05
 AddChapterBySecond("2885.375","No Title")
-# Chapter 035: 00:48:30
-AddChapterBySecond("2910.895","No Title")
-# Chapter 036: 00:52:27
+# Chapter 031: 00:48:30
+AddChapterBySecond("2910.862","No Title")
+# Chapter 032: 00:49:34
+AddChapterBySecond("2974.013","Chuck gives a surprise to his father")
+# Chapter 033: 00:52:27
 AddChapterBySecond("3147.318","No Title")
-# Chapter 037: 00:54:06
-AddChapterBySecond("3246.864","No Title")
-# Chapter 038: 00:56:41
-AddChapterBySecond("3401.721","No Title")
+# Chapter 034: 00:53:11
+AddChapterBySecond("3191.987","Bobby calls Helena")
+# Chapter 035: 00:54:06
+AddChapterBySecond("3246.831","No Title")
+# Chapter 036: 00:55:12
+AddChapterBySecond("3312.984","Wendy warns Chuck")
+# Chapter 037: 00:56:41
+AddChapterBySecond("3401.688","No Title")
+# Chapter 038: 00:57:21
+AddChapterBySecond("3441.987","End Credits")
+# Chapter 039: 00:17:52
+AddChapterBySecond("1072.258","No Title")
+# Chapter 040: 00:33:11
+AddChapterBySecond("1991.927","No Title")
+# Chapter 041: 00:36:31
+AddChapterBySecond("2191.987","No Title")
+# Chapter 042: 00:42:14
+AddChapterBySecond("2534.995","No Title")
+# Chapter 043: 00:45:49
+AddChapterBySecond("2749.133","No Title")
