@@ -9,53 +9,61 @@
 //
 # Chapter 000: 00:00:00
 AddChapterBySecond("0.000","Studio Logo")
-# Chapter 001: 00:00:04
-AddChapterBySecond("4.003","Previously On")
+# Chapter 001: 00:00:03
+AddChapterBySecond("3.970","Previously On")
 # Chapter 002: 00:01:17
 AddChapterBySecond("77.996","Title Sequence")
-# Chapter 003: 00:01:35
-AddChapterBySecond("95.009","Randy gives information about Jock to Chuck")
-# Chapter 004: 00:03:40
-AddChapterBySecond("220.009","Chuck discusses about Jock and his brother&aposs properties with Kate and Karl")
+# Chapter 003: 00:01:34
+AddChapterBySecond("94.976","Randy gives information about Jock to Chuck")
+# Chapter 004: 00:03:39
+AddChapterBySecond("219.976","Chuck discusses about Jock and his brother&aposs properties with Kate and Karl")
 # Chapter 005: 00:05:39
 AddChapterBySecond("339.005","Bobby plays tennis with Maria Sharapova&comma Grigor asks to return his money")
-# Chapter 006: 00:07:13
-AddChapterBySecond("433.013","Chuck invites Jock to his home for dinner")
+# Chapter 006: 00:07:12
+AddChapterBySecond("432.980","Chuck invites Jock to his home for dinner")
 # Chapter 007: 00:08:59
 AddChapterBySecond("539.999","Bobby tries to fix a deal with Raul")
-# Chapter 008: 00:12:40
-AddChapterBySecond("760.008","Franklin denies to help Chuck")
-# Chapter 009: 00:15:21
-AddChapterBySecond("921.003","Chuck asks Wendy to cook for Jock and his wife")
-# Chapter 010: 00:17:28
-AddChapterBySecond("1048.005","Allard and Kate ask Chuck to be careful")
+# Chapter 008: 00:12:39
+AddChapterBySecond("759.975","Franklin denies to help Chuck")
+# Chapter 009: 00:15:20
+AddChapterBySecond("920.970","Chuck asks Wendy to cook for Jock and his wife")
+# Chapter 010: 00:17:27
+AddChapterBySecond("1047.972","Allard and Kate ask Chuck to be careful")
 # Chapter 011: 00:19:11
-AddChapterBySecond("1151.988","Wendy tries to motivate Ben")
+AddChapterBySecond("1151.955","Wendy tries to motivate Ben")
 # Chapter 012: 00:22:23
 AddChapterBySecond("1343.008","Chuck goes to meet Cutler")
 # Chapter 013: 00:24:51
 AddChapterBySecond("1491.994","Frotty agrees for a deal with Bobby")
-# Chapter 014: 00:27:57
-AddChapterBySecond("1677.008","Bobby has a conversation with Bruno")
+# Chapter 014: 00:27:56
+AddChapterBySecond("1676.975","Bobby has a conversation with Bruno")
 # Chapter 015: 00:30:30
-AddChapterBySecond("1830.998","Jock and his wife arrive at Chuck&aposs home for dinner")
+AddChapterBySecond("1830.965","Jock and his wife arrive at Chuck&aposs home for dinner")
 # Chapter 016: 00:33:45
-AddChapterBySecond("2025.987","Taylor has dinner with Oscar and others")
+AddChapterBySecond("2025.954","Taylor has dinner with Oscar and others")
 # Chapter 017: 00:34:59
 AddChapterBySecond("2099.013","Bobby changes his decision")
-# Chapter 018: 00:38:56
-AddChapterBySecond("2336.002","Cutlet gives important details to Chuck")
-# Chapter 019: 00:42:13
-AddChapterBySecond("2533.994","Bryan meets Dancshazy")
-# Chapter 020: 00:43:24
-AddChapterBySecond("2604.984","Ben pitches his idea to Bobby")
-# Chapter 021: 00:48:57
-AddChapterBySecond("2937.016","Wendy consoles Taylor")
-# Chapter 022: 00:50:44
-AddChapterBySecond("3044.002","Kate feels unhappy that Chuck met her father")
-# Chapter 023: 00:52:28
-AddChapterBySecond("3148.986","Bobby spends time with Grigor and his family")
-# Chapter 024: 00:57:22
-AddChapterBySecond("3442.988","End Credits")
-# Chapter 025: 00:41:26
+# Chapter 018: 00:38:55
+AddChapterBySecond("2335.969","Cutlet gives important details to Chuck")
+# Chapter 019: 00:41:26
 AddChapterBySecond("2486.990","No Title")
+# Chapter 020: 00:42:13
+AddChapterBySecond("2533.994","Bryan meets Dancshazy")
+# Chapter 021: 00:43:24
+AddChapterBySecond("2604.984","Ben pitches his idea to Bobby")
+# Chapter 022: 00:48:56
+AddChapterBySecond("2936.983","Wendy consoles Taylor")
+# Chapter 023: 00:50:44
+AddChapterBySecond("3044.002","Kate feels unhappy that Chuck met her father")
+# Chapter 024: 00:52:28
+AddChapterBySecond("3148.986","Bobby spends time with Grigor and his family")
+# Chapter 025: 00:57:22
+AddChapterBySecond("3442.988","End Credits")
+# Chapter 026: 00:21:05
+AddChapterBySecond("1265.012","No Title")
+# Chapter 027: 00:21:38
+AddChapterBySecond("1298.139","No Title")
+# Chapter 028: 00:26:53
+AddChapterBySecond("1613.591","No Title")
+# Chapter 029: 00:27:24
+AddChapterBySecond("1644.082","No Title")
