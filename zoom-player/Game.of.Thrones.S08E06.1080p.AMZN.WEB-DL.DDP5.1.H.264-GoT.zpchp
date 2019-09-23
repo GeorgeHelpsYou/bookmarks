@@ -7,83 +7,103 @@
 // Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
 // Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
 //
-# Chapter 000: 00:00:00
-AddChapterBySecond("0.000","Ratings")
-# Chapter 001: 00:00:03
-AddChapterBySecond("3.870","Previously On")
-# Chapter 002: 00:00:57
-AddChapterBySecond("57.813","Opening Credits")
-# Chapter 003: 00:02:56
+# Chapter 000: 00:02:56
 AddChapterBySecond("176.775","What remains of King&aposs Landing")
-# Chapter 004: 00:05:52
+# Chapter 001: 00:05:52
 AddChapterBySecond("352.849","Following the queen&aposs orders")
-# Chapter 005: 00:07:28
+# Chapter 002: 00:07:28
 AddChapterBySecond("448.826","The last of House Lannister")
-# Chapter 006: 00:11:53
+# Chapter 003: 00:11:53
 AddChapterBySecond("713.838","Breaking the wheel")
-# Chapter 007: 00:14:46
+# Chapter 004: 00:14:46
 AddChapterBySecond("886.643","No Title")
-# Chapter 008: 00:16:23
+# Chapter 005: 00:16:23
 AddChapterBySecond("983.654","No Title")
-# Chapter 009: 00:18:13
+# Chapter 006: 00:18:13
 AddChapterBySecond("1093.675","No Title")
-# Chapter 010: 00:21:13
+# Chapter 007: 00:21:13
 AddChapterBySecond("1273.786","Love is the death of duty")
-# Chapter 011: 00:23:51
+# Chapter 008: 00:23:51
 AddChapterBySecond("1431.512","No Title")
-# Chapter 012: 00:24:45
+# Chapter 009: 00:24:45
 AddChapterBySecond("1485.622","No Title")
-# Chapter 013: 00:25:26
+# Chapter 010: 00:25:26
 AddChapterBySecond("1526.188","No Title")
-# Chapter 014: 00:27:25
-AddChapterBySecond("1645.650","No Title")
-# Chapter 015: 00:27:40
-AddChapterBySecond("1660.662","No Title")
-# Chapter 016: 00:30:18
-AddChapterBySecond("1818.822","Building a new world together")
-# Chapter 017: 00:35:36
-AddChapterBySecond("2136.910","No Title")
-# Chapter 018: 00:35:50
-AddChapterBySecond("2150.354","No Title")
-# Chapter 019: 00:36:56
-AddChapterBySecond("2216.373","No Title")
-# Chapter 020: 00:40:09
-AddChapterBySecond("2409.561","No Title")
-# Chapter 021: 00:42:44
-AddChapterBySecond("2564.852","Determining what&aposs best for the kingdom")
-# Chapter 022: 00:50:03
-AddChapterBySecond("3003.870","No Title")
-# Chapter 023: 00:50:23
-AddChapterBySecond("3023.519","No Title")
-# Chapter 024: 00:50:27
-AddChapterBySecond("3027.389","No Title")
-# Chapter 025: 00:50:52
-AddChapterBySecond("3052.709","No Title")
-# Chapter 026: 00:51:29
-AddChapterBySecond("3089.672","No Title")
-# Chapter 027: 00:51:46
-AddChapterBySecond("3106.452","No Title")
-# Chapter 028: 00:54:07
-AddChapterBySecond("3247.131","No Title")
-# Chapter 029: 00:55:34
-AddChapterBySecond("3334.468","No Title")
-# Chapter 030: 00:56:16
-AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
-# Chapter 031: 00:56:36
-AddChapterBySecond("3396.751","No Title")
-# Chapter 032: 00:57:39
-AddChapterBySecond("3459.868","No Title")
-# Chapter 033: 01:03:42
-AddChapterBySecond("3822.825","Honoring a legacy")
-# Chapter 034: 01:05:45
-AddChapterBySecond("3945.857","A song of ice and fire")
-# Chapter 035: 01:10:42
-AddChapterBySecond("4242.928","No Title")
-# Chapter 036: 01:11:15
-AddChapterBySecond("4275.821","And now my watch begins")
-# Chapter 037: 01:12:30
-AddChapterBySecond("4350.814","The last of house Stark")
-# Chapter 038: 01:18:08
-AddChapterBySecond("4688.818","End Credits")
-# Chapter 039: 00:25:55
+# Chapter 011: 00:25:55
 AddChapterBySecond("1555.311","No Title")
+# Chapter 012: 00:27:25
+AddChapterBySecond("1645.650","No Title")
+# Chapter 013: 00:27:40
+AddChapterBySecond("1660.662","No Title")
+# Chapter 014: 00:29:52
+AddChapterBySecond("1792.067","No Title")
+# Chapter 015: 00:30:18
+AddChapterBySecond("1818.822","Building a new world together")
+# Chapter 016: 00:35:36
+AddChapterBySecond("2136.910","No Title")
+# Chapter 017: 00:35:50
+AddChapterBySecond("2150.354","No Title")
+# Chapter 018: 00:36:56
+AddChapterBySecond("2216.340","No Title")
+# Chapter 019: 00:40:09
+AddChapterBySecond("2409.561","No Title")
+# Chapter 020: 00:42:44
+AddChapterBySecond("2564.852","Determining what&aposs best for the kingdom")
+# Chapter 021: 00:44:20
+AddChapterBySecond("2660.395","No Title")
+# Chapter 022: 00:44:59
+AddChapterBySecond("2699.293","No Title")
+# Chapter 023: 00:45:31
+AddChapterBySecond("2731.719","No Title")
+# Chapter 024: 00:45:55
+AddChapterBySecond("2755.004","No Title")
+# Chapter 025: 00:46:34
+AddChapterBySecond("2794.569","No Title")
+# Chapter 026: 00:47:20
+AddChapterBySecond("2840.873","No Title")
+# Chapter 027: 00:50:03
+AddChapterBySecond("3003.870","No Title")
+# Chapter 028: 00:50:23
+AddChapterBySecond("3023.519","No Title")
+# Chapter 029: 00:50:27
+AddChapterBySecond("3027.389","No Title")
+# Chapter 030: 00:50:52
+AddChapterBySecond("3052.709","No Title")
+# Chapter 031: 00:51:29
+AddChapterBySecond("3089.672","No Title")
+# Chapter 032: 00:51:46
+AddChapterBySecond("3106.452","No Title")
+# Chapter 033: 00:54:07
+AddChapterBySecond("3247.098","No Title")
+# Chapter 034: 00:55:34
+AddChapterBySecond("3334.468","No Title")
+# Chapter 035: 00:56:16
+AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
+# Chapter 036: 00:56:36
+AddChapterBySecond("3396.751","No Title")
+# Chapter 037: 00:57:39
+AddChapterBySecond("3459.868","No Title")
+# Chapter 038: 01:03:42
+AddChapterBySecond("3822.825","Honoring a legacy")
+# Chapter 039: 01:05:45
+AddChapterBySecond("3945.857","A song of ice and fire")
+# Chapter 040: 01:10:42
+AddChapterBySecond("4242.928","No Title")
+# Chapter 041: 01:11:15
+AddChapterBySecond("4275.821","And now my watch begins")
+# Chapter 042: 01:12:30
+AddChapterBySecond("4350.814","The last of house Stark")
+# Chapter 043: 01:18:08
+AddChapterBySecond("4688.818","End Credits")
+# Chapter 044: 00:47:43
+AddChapterBySecond("2863.724","No Title")
+# Chapter 045: 00:48:20
+AddChapterBySecond("2900.821","No Title")
+# Chapter 046: 00:48:58
+AddChapterBySecond("2938.417","No Title")
+# Chapter 047: 00:51:46
+AddChapterBySecond("3106.285","No Title")
+# Chapter 048: 00:52:27
+AddChapterBySecond("3147.251","No Title")
+# Chapter 049: 00:52:44
+AddChapterBySecond("3164.498","No Title")
