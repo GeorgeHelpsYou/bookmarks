@@ -1,0 +1,45 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Opening Credits")
+# Chapter 001: 00:00:51
+AddChapterBySecond("51.007","Not meant to be")
+# Chapter 002: 00:04:48
+AddChapterBySecond("288.998","A place full of ghostly memories")
+# Chapter 003: 00:05:38
+AddChapterBySecond("338.004","From brother to brother")
+# Chapter 004: 00:07:37
+AddChapterBySecond("458.000","Searching for King Ecbert")
+# Chapter 005: 00:08:52
+AddChapterBySecond("532.993","The request from a broken heart")
+# Chapter 006: 00:12:09
+AddChapterBySecond("729.984","After the death of King Ecbert")
+# Chapter 007: 00:14:56
+AddChapterBySecond("896.984","There is a meaning for all the pain")
+# Chapter 008: 00:18:23
+AddChapterBySecond("1103.016","Floki&aposs farewell")
+# Chapter 009: 00:21:16
+AddChapterBySecond("1276.988","Prayer for the King")
+# Chapter 010: 00:22:48
+AddChapterBySecond("1368.995","The idea of an impregnable fortress")
+# Chapter 011: 00:25:56
+AddChapterBySecond("1556.011","Prayer of forgiveness")
+# Chapter 012: 00:28:14
+AddChapterBySecond("1694.989","Planning the best time to attack York")
+# Chapter 013: 00:31:12
+AddChapterBySecond("1872.998","It&aposs time")
+# Chapter 014: 00:38:04
+AddChapterBySecond("2284.995","A toast to all brothers")
+# Chapter 015: 00:39:12
+AddChapterBySecond("2352.015","The truth can be a bad choice for a wise man")
+# Chapter 016: 00:44:48
+AddChapterBySecond("2688.985","End Credits")
+# Chapter 017: 00:43:03
+AddChapterBySecond("2583.433","No Title")
