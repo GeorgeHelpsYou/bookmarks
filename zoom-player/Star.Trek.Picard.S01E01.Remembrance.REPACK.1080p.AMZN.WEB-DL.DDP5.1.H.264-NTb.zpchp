@@ -1,0 +1,51 @@
+// Zoom Player v15 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:06
+AddChapterBySecond("6.005","Keep the game from ending")
+# Chapter 002: 00:04:00
+AddChapterBySecond("240.993","Activating a new weapon")
+# Chapter 003: 00:06:54
+AddChapterBySecond("414.999","Opening Credits")
+# Chapter 004: 00:08:33
+AddChapterBySecond("513.010","An important interview")
+# Chapter 005: 00:16:37
+AddChapterBySecond("997.998","Dahj finds Picard")
+# Chapter 006: 00:22:05
+AddChapterBySecond("1325.994","A clue hidden in a painting")
+# Chapter 007: 00:26:33
+AddChapterBySecond("1593.008","Focus and find help")
+# Chapter 008: 00:28:07
+AddChapterBySecond("1687.984","The truth about Dahj")
+# Chapter 009: 00:33:48
+AddChapterBySecond("2028.990","A visit to Okinawa Research Facility")
+# Chapter 010: 00:40:37
+AddChapterBySecond("2437.984","Another sad story")
+# Chapter 011: 00:43:17
+AddChapterBySecond("2597.011","End Credits")
+# Chapter 012: 00:13:40
+AddChapterBySecond("820.590","No Title")
+# Chapter 013: 00:13:52
+AddChapterBySecond("832.499","No Title")
+# Chapter 014: 00:14:07
+AddChapterBySecond("847.111","No Title")
+# Chapter 015: 00:18:14
+AddChapterBySecond("1094.742","No Title")
+# Chapter 016: 00:20:30
+AddChapterBySecond("1230.818","No Title")
+# Chapter 017: 00:23:12
+AddChapterBySecond("1392.781","No Title")
+# Chapter 018: 00:35:40
+AddChapterBySecond("2140.079","No Title")
+# Chapter 019: 00:36:35
+AddChapterBySecond("2195.323","No Title")
+# Chapter 020: 00:37:32
+AddChapterBySecond("2252.402","No Title")

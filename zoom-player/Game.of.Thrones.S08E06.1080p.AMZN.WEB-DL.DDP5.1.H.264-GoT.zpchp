@@ -55,55 +55,57 @@ AddChapterBySecond("2660.395","No Title")
 AddChapterBySecond("2699.293","No Title")
 # Chapter 023: 00:45:31
 AddChapterBySecond("2731.719","No Title")
-# Chapter 024: 00:45:55
-AddChapterBySecond("2755.004","No Title")
+# Chapter 024: 00:45:54
+AddChapterBySecond("2754.971","No Title")
 # Chapter 025: 00:46:34
 AddChapterBySecond("2794.569","No Title")
 # Chapter 026: 00:47:20
 AddChapterBySecond("2840.873","No Title")
-# Chapter 027: 00:50:03
-AddChapterBySecond("3003.870","No Title")
-# Chapter 028: 00:50:23
-AddChapterBySecond("3023.519","No Title")
-# Chapter 029: 00:50:27
-AddChapterBySecond("3027.389","No Title")
-# Chapter 030: 00:50:52
-AddChapterBySecond("3052.709","No Title")
-# Chapter 031: 00:51:29
-AddChapterBySecond("3089.672","No Title")
-# Chapter 032: 00:51:46
-AddChapterBySecond("3106.452","No Title")
-# Chapter 033: 00:54:07
-AddChapterBySecond("3247.098","No Title")
-# Chapter 034: 00:55:34
-AddChapterBySecond("3334.468","No Title")
-# Chapter 035: 00:56:16
-AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
-# Chapter 036: 00:56:36
-AddChapterBySecond("3396.751","No Title")
-# Chapter 037: 00:57:39
-AddChapterBySecond("3459.868","No Title")
-# Chapter 038: 01:03:42
-AddChapterBySecond("3822.825","Honoring a legacy")
-# Chapter 039: 01:05:45
-AddChapterBySecond("3945.857","A song of ice and fire")
-# Chapter 040: 01:10:42
-AddChapterBySecond("4242.928","No Title")
-# Chapter 041: 01:11:15
-AddChapterBySecond("4275.821","And now my watch begins")
-# Chapter 042: 01:12:30
-AddChapterBySecond("4350.814","The last of house Stark")
-# Chapter 043: 01:18:08
-AddChapterBySecond("4688.818","End Credits")
-# Chapter 044: 00:47:43
-AddChapterBySecond("2863.724","No Title")
-# Chapter 045: 00:48:20
+# Chapter 027: 00:47:43
+AddChapterBySecond("2863.691","No Title")
+# Chapter 028: 00:48:20
 AddChapterBySecond("2900.821","No Title")
-# Chapter 046: 00:48:58
-AddChapterBySecond("2938.417","No Title")
-# Chapter 047: 00:51:46
-AddChapterBySecond("3106.285","No Title")
-# Chapter 048: 00:52:27
-AddChapterBySecond("3147.251","No Title")
-# Chapter 049: 00:52:44
-AddChapterBySecond("3164.498","No Title")
+# Chapter 029: 00:48:58
+AddChapterBySecond("2938.384","No Title")
+# Chapter 030: 00:50:03
+AddChapterBySecond("3003.870","No Title")
+# Chapter 031: 00:50:23
+AddChapterBySecond("3023.519","No Title")
+# Chapter 032: 00:50:27
+AddChapterBySecond("3027.389","No Title")
+# Chapter 033: 00:50:52
+AddChapterBySecond("3052.709","No Title")
+# Chapter 034: 00:51:29
+AddChapterBySecond("3089.672","No Title")
+# Chapter 035: 00:51:46
+AddChapterBySecond("3106.252","No Title")
+# Chapter 036: 00:51:46
+AddChapterBySecond("3106.452","No Title")
+# Chapter 037: 00:52:27
+AddChapterBySecond("3147.218","No Title")
+# Chapter 038: 00:52:44
+AddChapterBySecond("3164.465","No Title")
+# Chapter 039: 00:54:07
+AddChapterBySecond("3247.098","No Title")
+# Chapter 040: 00:55:34
+AddChapterBySecond("3334.468","No Title")
+# Chapter 041: 00:56:16
+AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
+# Chapter 042: 00:56:36
+AddChapterBySecond("3396.751","No Title")
+# Chapter 043: 00:57:39
+AddChapterBySecond("3459.868","No Title")
+# Chapter 044: 01:03:42
+AddChapterBySecond("3822.825","Honoring a legacy")
+# Chapter 045: 01:05:45
+AddChapterBySecond("3945.857","A song of ice and fire")
+# Chapter 046: 01:10:42
+AddChapterBySecond("4242.928","No Title")
+# Chapter 047: 01:11:15
+AddChapterBySecond("4275.821","And now my watch begins")
+# Chapter 048: 01:12:30
+AddChapterBySecond("4350.814","The last of house Stark")
+# Chapter 049: 01:18:08
+AddChapterBySecond("4688.818","End Credits")
+# Chapter 050: 00:25:26
+AddChapterBySecond("1526.054","No Title")

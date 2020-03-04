@@ -1,0 +1,53 @@
+// Zoom Player v15 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:06
+AddChapterBySecond("6.005","Previously On")
+# Chapter 002: 00:01:42
+AddChapterBySecond("102.015","Happy first contact day")
+# Chapter 003: 00:05:21
+AddChapterBySecond("321.991","Title Sequence")
+# Chapter 004: 00:07:01
+AddChapterBySecond("421.003","Picard learns about the Zhat Vash")
+# Chapter 005: 00:14:14
+AddChapterBySecond("854.017","A good secret keeper")
+# Chapter 006: 00:17:14
+AddChapterBySecond("1034.995","An unexpected visitor")
+# Chapter 007: 00:18:07
+AddChapterBySecond("1087.003","Getting bad news")
+# Chapter 008: 00:20:21
+AddChapterBySecond("1221.010","Picard makes a request")
+# Chapter 009: 00:24:32
+AddChapterBySecond("1472.011","A brief introduction to the project")
+# Chapter 010: 00:27:53
+AddChapterBySecond("1673.005","Tea with Dr. Agnes")
+# Chapter 011: 00:30:44
+AddChapterBySecond("1844.009","Watching a surgical procedure")
+# Chapter 012: 00:32:12
+AddChapterBySecond("1932.012","Picard asks for help")
+# Chapter 013: 00:33:29
+AddChapterBySecond("2009.007","A private video chat")
+# Chapter 014: 00:34:38
+AddChapterBySecond("2078.997","Picard has a duty")
+# Chapter 015: 00:37:00
+AddChapterBySecond("2220.009","The Commodore looks into Picard")
+# Chapter 016: 00:39:29
+AddChapterBySecond("2369.996","Picard visits an old friend")
+# Chapter 017: 00:40:33
+AddChapterBySecond("2433.013","A secret meeting")
+# Chapter 018: 00:42:30
+AddChapterBySecond("2550.007","End Credits")
+# Chapter 019: 00:23:06
+AddChapterBySecond("1386.042","No Title")
+# Chapter 020: 00:35:15
+AddChapterBySecond("2115.192","No Title")
+# Chapter 021: 00:41:56
+AddChapterBySecond("2516.280","No Title")

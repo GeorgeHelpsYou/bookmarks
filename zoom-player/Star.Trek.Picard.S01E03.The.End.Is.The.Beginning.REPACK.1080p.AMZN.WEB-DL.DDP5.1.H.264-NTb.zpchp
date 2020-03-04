@@ -1,0 +1,45 @@
+// Zoom Player v15 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:06
+AddChapterBySecond("6.005","Previously On")
+# Chapter 002: 00:01:24
+AddChapterBySecond("84.001","Picard makes a desperate request")
+# Chapter 003: 00:06:21
+AddChapterBySecond("381.005","Opening Credits")
+# Chapter 004: 00:07:59
+AddChapterBySecond("479.984","Raffi isn&apost ready to forgive")
+# Chapter 005: 00:10:55
+AddChapterBySecond("655.991","Soji is granted a request")
+# Chapter 006: 00:13:37
+AddChapterBySecond("817.988","Picard needs Raffi&aposs help")
+# Chapter 007: 00:15:56
+AddChapterBySecond("956.999","Commodore Oh approaches Dr. Jurati")
+# Chapter 008: 00:16:33
+AddChapterBySecond("993.995","Soji meets Ramdha")
+# Chapter 009: 00:17:58
+AddChapterBySecond("1078.997","The makings of a crew")
+# Chapter 010: 00:24:41
+AddChapterBySecond("1481.986","One eye on the stars")
+# Chapter 011: 00:26:06
+AddChapterBySecond("1566.987","Requesting a meeting")
+# Chapter 012: 00:27:05
+AddChapterBySecond("1625.000","Unexpected visitors")
+# Chapter 013: 00:30:25
+AddChapterBySecond("1825.994","Searching for answers")
+# Chapter 014: 00:34:58
+AddChapterBySecond("2098.012","Narek continues with his plan")
+# Chapter 015: 00:38:25
+AddChapterBySecond("2305.011","Time to go")
+# Chapter 016: 00:41:48
+AddChapterBySecond("2508.006","End Credits")
+# Chapter 017: 00:20:20
+AddChapterBySecond("1220.143","No Title")
