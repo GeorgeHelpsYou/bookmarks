@@ -1,0 +1,45 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:06
+AddChapterBySecond("6.005","Previously On")
+# Chapter 002: 00:01:32
+AddChapterBySecond("92.007","Someone is after Bruce")
+# Chapter 003: 00:06:22
+AddChapterBySecond("382.006","Opening Credits")
+# Chapter 004: 00:07:59
+AddChapterBySecond("479.984","Seven visits Picard")
+# Chapter 005: 00:10:39
+AddChapterBySecond("639.011","Seven has a reputation")
+# Chapter 006: 00:11:49
+AddChapterBySecond("709.001","A hidden relationship")
+# Chapter 007: 00:12:49
+AddChapterBySecond("769.015","Finding Maddox on Freecloud")
+# Chapter 008: 00:15:30
+AddChapterBySecond("930.011","Trading Seven for Maddox")
+# Chapter 009: 00:24:16
+AddChapterBySecond("1456.999","Raffi visits Gabe")
+# Chapter 010: 00:28:00
+AddChapterBySecond("1680.011","A meeting of friends and enemies")
+# Chapter 011: 00:31:27
+AddChapterBySecond("1887.010","Settling an old score")
+# Chapter 012: 00:38:13
+AddChapterBySecond("2293.001","Bruce tells Picard about Soji")
+# Chapter 013: 00:40:43
+AddChapterBySecond("2443.989","A new quest")
+# Chapter 014: 00:41:25
+AddChapterBySecond("2485.989","Atoning for sins")
+# Chapter 015: 00:44:03
+AddChapterBySecond("2643.014","End Credits")
+# Chapter 016: 00:33:36
+AddChapterBySecond("2016.380","No Title")
+# Chapter 017: 00:36:03
+AddChapterBySecond("2163.898","No Title")
