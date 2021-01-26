@@ -1,0 +1,43 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:05
+AddChapterBySecond("5.004","A second opinion from the private sector")
+# Chapter 002: 00:04:23
+AddChapterBySecond("263.010","Opening Credits")
+# Chapter 003: 00:05:29
+AddChapterBySecond("329.997","Camina&aposs crew find Ashford&aposs ship")
+# Chapter 004: 00:09:07
+AddChapterBySecond("547.004","Monica shares some of her information")
+# Chapter 005: 00:11:05
+AddChapterBySecond("665.999","Knuckles goes back to Pallas")
+# Chapter 006: 00:17:00
+AddChapterBySecond("1020.983","Alex digs for information")
+# Chapter 007: 00:21:14
+AddChapterBySecond("1274.987","Avenging the Ghost Knife")
+# Chapter 008: 00:26:11
+AddChapterBySecond("1571.991","Sakai helps Bull and Holden")
+# Chapter 009: 00:27:31
+AddChapterBySecond("1651.988","Shaking the tree that shakes back")
+# Chapter 010: 00:34:02
+AddChapterBySecond("2042.000","This is not my fight")
+# Chapter 011: 00:39:21
+AddChapterBySecond("2361.990","Family reunion")
+# Chapter 012: 00:42:35
+AddChapterBySecond("2555.011","Laying a trap on Tycho")
+# Chapter 013: 00:43:34
+AddChapterBySecond("2614.992","Secured for flight")
+# Chapter 014: 00:44:45
+AddChapterBySecond("2685.015","The churn")
+# Chapter 015: 00:49:45
+AddChapterBySecond("2985.989","End Credits")
+# Chapter 016: 00:25:16
+AddChapterBySecond("1516.747","No Title")

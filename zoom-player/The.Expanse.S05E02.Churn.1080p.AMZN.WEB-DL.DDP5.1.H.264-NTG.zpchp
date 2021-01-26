@@ -1,0 +1,41 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:05
+AddChapterBySecond("5.004","The more you share")
+# Chapter 002: 00:05:08
+AddChapterBySecond("308.013","Opening Credits")
+# Chapter 003: 00:06:16
+AddChapterBySecond("376.001","Timothy returns home")
+# Chapter 004: 00:13:31
+AddChapterBySecond("811.015","Holden checks Sakai&aposs work")
+# Chapter 005: 00:17:54
+AddChapterBySecond("1074.993","Force reduction and easy math")
+# Chapter 006: 00:21:12
+AddChapterBySecond("1272.985","Amos sends Erich a message")
+# Chapter 007: 00:23:33
+AddChapterBySecond("1413.998","Alex attends a lecture")
+# Chapter 008: 00:29:12
+AddChapterBySecond("1752.002","Troubles letting go")
+# Chapter 009: 00:32:19
+AddChapterBySecond("1939.985","Holden looks for Monica")
+# Chapter 010: 00:37:33
+AddChapterBySecond("2253.002","Amos Burton wants to talk")
+# Chapter 011: 00:43:11
+AddChapterBySecond("2591.006","Monica wakes up")
+# Chapter 012: 00:44:54
+AddChapterBySecond("2694.989","Chrisjen raises suspicions")
+# Chapter 013: 00:46:49
+AddChapterBySecond("2809.014","It takes strength to be kind")
+# Chapter 014: 00:50:13
+AddChapterBySecond("3013.010","End Credits")
+# Chapter 015: 00:01:23
+AddChapterBySecond("83.400","No Title")
