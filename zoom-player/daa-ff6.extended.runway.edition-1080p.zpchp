@@ -1,0 +1,55 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","00:00:00.000")
+# Chapter 001: 00:04:21
+AddChapterBySecond("261.009","00:04:21.011")
+# Chapter 002: 00:10:19
+AddChapterBySecond("619.129","00:10:19.118")
+# Chapter 003: 00:15:35
+AddChapterBySecond("935.282","00:15:35.268")
+# Chapter 004: 00:19:18
+AddChapterBySecond("1158.560","00:19:18.574")
+# Chapter 005: 00:24:32
+AddChapterBySecond("1472.712","00:24:32.721")
+# Chapter 006: 00:30:23
+AddChapterBySecond("1823.392","00:30:23.405")
+# Chapter 007: 00:36:28
+AddChapterBySecond("2188.484","00:36:28.478")
+# Chapter 008: 00:44:01
+AddChapterBySecond("2641.313","00:44:01.305")
+# Chapter 009: 00:50:50
+AddChapterBySecond("3050.240","00:50:50.255")
+# Chapter 010: 00:56:54
+AddChapterBySecond("3414.331","00:56:54.327")
+# Chapter 011: 01:04:54
+AddChapterBySecond("3894.049","01:04:54.057")
+# Chapter 012: 01:10:14
+AddChapterBySecond("4214.305","01:10:14.293")
+# Chapter 013: 01:19:13
+AddChapterBySecond("4753.469","01:19:13.457")
+# Chapter 014: 01:25:41
+AddChapterBySecond("5141.180","01:25:41.178")
+# Chapter 015: 01:34:53
+AddChapterBySecond("5693.755","01:34:53.771")
+# Chapter 016: 01:41:48
+AddChapterBySecond("6108.554","01:41:48.561")
+# Chapter 017: 01:48:31
+AddChapterBySecond("6511.843","01:48:31.838")
+# Chapter 018: 01:57:48
+AddChapterBySecond("7068.822","01:57:48.812")
+# Chapter 019: 02:03:04
+AddChapterBySecond("7384.408","02:03:04.418")
+# Chapter 020: 00:19:13
+AddChapterBySecond("1153.723","No Title")
+# Chapter 021: 00:25:32
+AddChapterBySecond("1532.760","No Title")
+# Chapter 022: 01:57:30
+AddChapterBySecond("7050.641","No Title")
