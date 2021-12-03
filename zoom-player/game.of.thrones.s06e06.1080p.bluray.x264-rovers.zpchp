@@ -30,7 +30,7 @@ AddChapterBySecond("2564.118","No Title")
 # Chapter 010: 00:44:56
 AddChapterBySecond("2696.491","No Title")
 # Chapter 011: 00:45:45
-AddChapterBySecond("2745.563","No Title")
+AddChapterBySecond("2745.530","No Title")
 # Chapter 012: 00:45:45
 AddChapterBySecond("2745.630","No Title")
 # Chapter 013: 00:46:53
@@ -43,3 +43,7 @@ AddChapterBySecond("2898.219","No Title")
 AddChapterBySecond("2947.358","No Title")
 # Chapter 017: 00:49:40
 AddChapterBySecond("2980.885","No Title")
+# Chapter 018: 00:38:29
+AddChapterBySecond("2309.281","No Title")
+# Chapter 019: 00:42:43
+AddChapterBySecond("2563.718","No Title")
