@@ -1,4 +1,4 @@
-// Zoom Player v14.3 Chapter file.
+// Zoom Player v14.5 Chapter file.
 //
 // Usage   : AddChapter(FrameNumber,Chapter Title)
 // Example : AddChapter(1245,The break in)
@@ -9,27 +9,37 @@
 //
 # Chapter 000: 00:06:46
 AddChapterBySecond("406.659","No Title")
-# Chapter 001: 00:08:42
-AddChapterBySecond("522.418","No Title")
-# Chapter 002: 00:14:57
-AddChapterBySecond("897.385","No Title")
-# Chapter 003: 00:21:42
-AddChapterBySecond("1302.976","No Title")
-# Chapter 004: 00:22:14
-AddChapterBySecond("1334.201","No Title")
-# Chapter 005: 00:28:21
-AddChapterBySecond("1701.695","No Title")
-# Chapter 006: 00:29:47
-AddChapterBySecond("1787.030","No Title")
-# Chapter 007: 00:31:01
-AddChapterBySecond("1861.556","No Title")
-# Chapter 008: 00:31:11
-AddChapterBySecond("1871.464","No Title")
-# Chapter 009: 00:35:18
-AddChapterBySecond("2118.695","No Title")
-# Chapter 010: 00:07:05
+# Chapter 001: 00:07:05
 AddChapterBySecond("425.107","No Title")
-# Chapter 011: 00:14:28
+# Chapter 002: 00:08:42
+AddChapterBySecond("522.418","No Title")
+# Chapter 003: 00:14:28
 AddChapterBySecond("868.028","No Title")
+# Chapter 004: 00:14:57
+AddChapterBySecond("897.385","No Title")
+# Chapter 005: 00:21:42
+AddChapterBySecond("1302.976","No Title")
+# Chapter 006: 00:22:14
+AddChapterBySecond("1334.201","No Title")
+# Chapter 007: 00:28:21
+AddChapterBySecond("1701.695","No Title")
+# Chapter 008: 00:29:47
+AddChapterBySecond("1787.030","No Title")
+# Chapter 009: 00:31:01
+AddChapterBySecond("1861.556","No Title")
+# Chapter 010: 00:31:11
+AddChapterBySecond("1871.464","No Title")
+# Chapter 011: 00:35:18
+AddChapterBySecond("2118.695","No Title")
 # Chapter 012: 00:40:45
 AddChapterBySecond("2445.757","No Title")
+# Chapter 013: 00:06:47
+AddChapterBySecond("407.693","No Title")
+# Chapter 014: 00:14:57
+AddChapterBySecond("897.251","No Title")
+# Chapter 015: 00:26:19
+AddChapterBySecond("1579.797","No Title")
+# Chapter 016: 00:31:11
+AddChapterBySecond("1871.430","No Title")
+# Chapter 017: 00:38:07
+AddChapterBySecond("2287.597","No Title")
