@@ -32,52 +32,54 @@ AddChapterBySecond("586.903","Fight together or die")
 # Chapter 011: 00:10:59
 AddChapterBySecond("659.828","No Title")
 # Chapter 012: 00:12:29
+AddChapterBySecond("749.633","No Title")
+# Chapter 013: 00:12:29
 AddChapterBySecond("749.967","No Title")
-# Chapter 013: 00:12:53
+# Chapter 014: 00:12:53
 AddChapterBySecond("773.886","Sansa sees through the lies")
-# Chapter 014: 00:15:36
+# Chapter 015: 00:15:36
 AddChapterBySecond("936.950","A tearful reunion")
-# Chapter 015: 00:17:45
+# Chapter 016: 00:17:45
 AddChapterBySecond("1065.953","A queen must be earned")
-# Chapter 016: 00:22:40
+# Chapter 017: 00:21:39
+AddChapterBySecond("1299.573","No Title")
+# Chapter 018: 00:22:40
 AddChapterBySecond("1360.889","Cersei asks a favor of Bronn")
-# Chapter 017: 00:25:25
-AddChapterBySecond("1525.921","What is dead may never die")
-# Chapter 018: 00:29:24
-AddChapterBySecond("1764.912","Hold on to whatever you can")
-# Chapter 019: 00:30:45
-AddChapterBySecond("1845.777","No Title")
-# Chapter 020: 00:31:16
-AddChapterBySecond("1876.735","No Title")
-# Chapter 021: 00:36:41
-AddChapterBySecond("2201.895","A forge for dragonglass")
-# Chapter 022: 00:38:39
-AddChapterBySecond("2319.656","No Title")
-# Chapter 023: 00:39:11
-AddChapterBySecond("2351.915","Sansa is frustrated with Jon&aposs choice")
-# Chapter 024: 00:41:03
-AddChapterBySecond("2463.938","The head of House Tarly")
-# Chapter 025: 00:44:32
-AddChapterBySecond("2672.905","It&aposs time for Jon to know the truth")
-# Chapter 026: 00:46:34
-AddChapterBySecond("2794.936","No Title")
-# Chapter 027: 00:47:15
-AddChapterBySecond("2835.869","No Title")
-# Chapter 028: 00:47:35
-AddChapterBySecond("2855.418","No Title")
-# Chapter 029: 00:48:40
-AddChapterBySecond("2920.937","A message from the Night King")
-# Chapter 030: 00:52:28
-AddChapterBySecond("3148.886","An unexpected visitor")
-# Chapter 031: 00:53:43
-AddChapterBySecond("3223.946","End Credits")
-# Chapter 032: 00:55:03
-AddChapterBySecond("3303.910","Next Time")
-# Chapter 033: 00:55:40
-AddChapterBySecond("3340.873","Inside Game of Thrones")
-# Chapter 034: 00:12:29
-AddChapterBySecond("749.666","No Title")
-# Chapter 035: 00:21:39
-AddChapterBySecond("1299.606","No Title")
-# Chapter 036: 00:24:13
+# Chapter 019: 00:24:13
 AddChapterBySecond("1453.463","No Title")
+# Chapter 020: 00:25:25
+AddChapterBySecond("1525.921","What is dead may never die")
+# Chapter 021: 00:29:24
+AddChapterBySecond("1764.912","Hold on to whatever you can")
+# Chapter 022: 00:30:45
+AddChapterBySecond("1845.777","No Title")
+# Chapter 023: 00:31:16
+AddChapterBySecond("1876.735","No Title")
+# Chapter 024: 00:36:41
+AddChapterBySecond("2201.895","A forge for dragonglass")
+# Chapter 025: 00:38:39
+AddChapterBySecond("2319.656","No Title")
+# Chapter 026: 00:39:11
+AddChapterBySecond("2351.915","Sansa is frustrated with Jon&aposs choice")
+# Chapter 027: 00:41:03
+AddChapterBySecond("2463.938","The head of House Tarly")
+# Chapter 028: 00:44:32
+AddChapterBySecond("2672.905","It&aposs time for Jon to know the truth")
+# Chapter 029: 00:46:34
+AddChapterBySecond("2794.936","No Title")
+# Chapter 030: 00:47:15
+AddChapterBySecond("2835.869","No Title")
+# Chapter 031: 00:47:35
+AddChapterBySecond("2855.418","No Title")
+# Chapter 032: 00:48:40
+AddChapterBySecond("2920.937","A message from the Night King")
+# Chapter 033: 00:52:28
+AddChapterBySecond("3148.886","An unexpected visitor")
+# Chapter 034: 00:53:43
+AddChapterBySecond("3223.946","End Credits")
+# Chapter 035: 00:55:03
+AddChapterBySecond("3303.910","Next Time")
+# Chapter 036: 00:55:40
+AddChapterBySecond("3340.873","Inside Game of Thrones")
+# Chapter 037: 00:10:43
+AddChapterBySecond("643.815","No Title")

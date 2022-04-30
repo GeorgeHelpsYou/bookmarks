@@ -1,0 +1,65 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:08
+AddChapterBySecond("8.006","Studio Logo")
+# Chapter 002: 00:00:13
+AddChapterBySecond("13.010","Previously On")
+# Chapter 003: 00:01:51
+AddChapterBySecond("111.990","Scene 4")
+# Chapter 004: 00:02:09
+AddChapterBySecond("129.003","Scene 5")
+# Chapter 005: 00:04:32
+AddChapterBySecond("272.985","Opening Credits")
+# Chapter 006: 00:06:08
+AddChapterBySecond("368.995","Title Sequence")
+# Chapter 007: 00:06:16
+AddChapterBySecond("376.001","Scene 8")
+# Chapter 008: 00:08:04
+AddChapterBySecond("484.988","Scene 9")
+# Chapter 009: 00:10:56
+AddChapterBySecond("656.992","Scene 10")
+# Chapter 010: 00:14:42
+AddChapterBySecond("882.006","Scene 11")
+# Chapter 011: 00:18:35
+AddChapterBySecond("1115.993","Scene 12")
+# Chapter 012: 00:19:47
+AddChapterBySecond("1187.984","Scene 13")
+# Chapter 013: 00:21:13
+AddChapterBySecond("1273.986","Scene 14")
+# Chapter 014: 00:25:20
+AddChapterBySecond("1520.983","Scene 15")
+# Chapter 015: 00:27:38
+AddChapterBySecond("1658.994","Scene 16")
+# Chapter 016: 00:28:11
+AddChapterBySecond("1691.987","Scene 17")
+# Chapter 017: 00:31:06
+AddChapterBySecond("1866.994","Scene 18")
+# Chapter 018: 00:32:14
+AddChapterBySecond("1934.014","Scene 19")
+# Chapter 019: 00:32:41
+AddChapterBySecond("1961.002","Scene 20")
+# Chapter 020: 00:33:38
+AddChapterBySecond("2018.014","Scene 21")
+# Chapter 021: 00:35:35
+AddChapterBySecond("2135.008","Scene 22")
+# Chapter 022: 00:36:47
+AddChapterBySecond("2208.000","Scene 23")
+# Chapter 023: 00:37:14
+AddChapterBySecond("2234.988","Scene 24")
+# Chapter 024: 00:38:37
+AddChapterBySecond("2317.988","Scene 25")
+# Chapter 025: 00:40:22
+AddChapterBySecond("2422.004","End Credits")
+# Chapter 026: 00:11:54
+AddChapterBySecond("714.638","No Title")
+# Chapter 027: 00:23:08
+AddChapterBySecond("1388.077","No Title")

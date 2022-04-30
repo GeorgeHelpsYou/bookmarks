@@ -1,4 +1,4 @@
-// Zoom Player v14.3 Chapter file.
+// Zoom Player v14.5 Chapter file.
 //
 // Usage   : AddChapter(FrameNumber,Chapter Title)
 // Example : AddChapter(1245,The break in)
@@ -31,25 +31,29 @@ AddChapterBySecond("1819.489","No Title")
 AddChapterBySecond("2038.631","No Title")
 # Chapter 011: 00:33:58
 AddChapterBySecond("2038.965","No Title")
-# Chapter 012: 00:40:24
+# Chapter 012: 00:35:50
+AddChapterBySecond("2150.921","No Title")
+# Chapter 013: 00:40:16
+AddChapterBySecond("2416.767","No Title")
+# Chapter 014: 00:40:24
 AddChapterBySecond("2424.640","No Title")
-# Chapter 013: 00:45:07
+# Chapter 015: 00:45:07
 AddChapterBySecond("2707.833","No Title")
-# Chapter 014: 00:45:25
+# Chapter 016: 00:45:25
 AddChapterBySecond("2725.514","No Title")
-# Chapter 015: 00:48:46
+# Chapter 017: 00:48:46
 AddChapterBySecond("2926.041","No Title")
-# Chapter 016: 00:52:31
+# Chapter 018: 00:52:31
 AddChapterBySecond("3151.121","No Title")
-# Chapter 017: 00:54:46
+# Chapter 019: 00:54:46
 AddChapterBySecond("3286.863","No Title")
-# Chapter 018: 00:56:22
-AddChapterBySecond("3382.840","No Title")
-# Chapter 019: 00:56:28
-AddChapterBySecond("3388.611","No Title")
-# Chapter 020: 00:35:50
-AddChapterBySecond("2150.954","No Title")
-# Chapter 021: 00:40:16
-AddChapterBySecond("2416.800","No Title")
-# Chapter 022: 00:56:22
+# Chapter 020: 00:56:22
 AddChapterBySecond("3382.406","No Title")
+# Chapter 021: 00:56:22
+AddChapterBySecond("3382.840","No Title")
+# Chapter 022: 00:56:28
+AddChapterBySecond("3388.611","No Title")
+# Chapter 023: 00:19:57
+AddChapterBySecond("1197.892","No Title")
+# Chapter 024: 00:24:26
+AddChapterBySecond("1466.974","No Title")
