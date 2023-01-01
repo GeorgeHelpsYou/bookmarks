@@ -7,81 +7,9 @@
 // Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
 // Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
 //
-# Chapter 000: 00:00:00
-AddChapterBySecond("0.000","Prime Video")
-# Chapter 001: 00:00:06
-AddChapterBySecond("6.005","Previously On")
-# Chapter 002: 00:01:32
-AddChapterBySecond("92.007","Scene 3")
-# Chapter 003: 00:03:19
-AddChapterBySecond("199.993","Scene 4")
-# Chapter 004: 00:04:04
-AddChapterBySecond("244.996","Opening Credits")
-# Chapter 005: 00:05:15
-AddChapterBySecond("315.986","Title Sequence")
-# Chapter 006: 00:05:38
-AddChapterBySecond("338.004","Scene 7")
-# Chapter 007: 00:07:40
-AddChapterBySecond("460.001","Scene 8")
-# Chapter 008: 00:08:50
-AddChapterBySecond("530.991","Scene 9")
-# Chapter 009: 00:09:07
-AddChapterBySecond("547.004","Scene 10")
-# Chapter 010: 00:11:49
-AddChapterBySecond("709.001","Scene 11")
-# Chapter 011: 00:12:45
-AddChapterBySecond("765.012","Scene 12")
-# Chapter 012: 00:14:44
-AddChapterBySecond("884.007","Scene 13")
-# Chapter 013: 00:17:43
-AddChapterBySecond("1063.985","Scene 14")
-# Chapter 014: 00:18:21
-AddChapterBySecond("1101.014","Scene 15")
-# Chapter 015: 00:19:35
-AddChapterBySecond("1175.007","Scene 16")
-# Chapter 016: 00:21:02
-AddChapterBySecond("1262.010","Scene 17")
-# Chapter 017: 00:23:31
-AddChapterBySecond("1411.996","Scene 18")
-# Chapter 018: 00:25:18
-AddChapterBySecond("1518.014","Scene 19")
-# Chapter 019: 00:29:06
-AddChapterBySecond("1746.998","Scene 20")
-# Chapter 020: 00:32:45
-AddChapterBySecond("1965.005","Scene 21")
-# Chapter 021: 00:33:08
-AddChapterBySecond("1988.991","Scene 22")
-# Chapter 022: 00:36:18
-AddChapterBySecond("2178.009","Scene 23")
-# Chapter 023: 00:37:16
-AddChapterBySecond("2236.990","Scene 24")
-# Chapter 024: 00:37:32
-AddChapterBySecond("2252.002","Scene 25")
-# Chapter 025: 00:39:12
-AddChapterBySecond("2352.015","Scene 26")
-# Chapter 026: 00:41:20
-AddChapterBySecond("2480.985","Scene 27")
-# Chapter 027: 00:44:29
-AddChapterBySecond("2669.002","Scene 28")
-# Chapter 028: 00:48:53
-AddChapterBySecond("2933.013","Scene 29")
-# Chapter 029: 00:49:43
-AddChapterBySecond("2983.987","Scene 30")
-# Chapter 030: 00:51:44
-AddChapterBySecond("3104.017","Scene 31")
-# Chapter 031: 00:54:42
-AddChapterBySecond("3282.993","Scene 32")
-# Chapter 032: 00:55:50
-AddChapterBySecond("3350.013","Scene 33")
-# Chapter 033: 00:58:09
-AddChapterBySecond("3489.992","Scene 34")
-# Chapter 034: 00:59:37
-AddChapterBySecond("3577.996","Scene 35")
-# Chapter 035: 01:01:21
-AddChapterBySecond("3681.011","Scene 36")
-# Chapter 036: 01:07:01
-AddChapterBySecond("4021.984","Scene 37")
-# Chapter 037: 01:07:27
-AddChapterBySecond("4047.004","End Credits")
-# Chapter 038: 00:50:44
-AddChapterBySecond("3044.669","No Title")
+# Chapter 000: 00:50:44
+AddChapterBySecond("3044.836","No Title")
+# Chapter 001: 00:50:50
+AddChapterBySecond("3050.741","No Title")
+# Chapter 002: 00:46:25
+AddChapterBySecond("2785.729","No Title")
