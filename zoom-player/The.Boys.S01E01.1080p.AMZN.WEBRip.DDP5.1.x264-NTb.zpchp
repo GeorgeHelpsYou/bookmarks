@@ -1,0 +1,61 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:03:40
+AddChapterBySecond("220.977","No Title")
+# Chapter 001: 00:06:38
+AddChapterBySecond("398.986","Meet Starlight")
+# Chapter 002: 00:09:06
+AddChapterBySecond("546.971","Saying goodbye to Robin")
+# Chapter 003: 00:11:55
+AddChapterBySecond("715.973","An important phone call")
+# Chapter 004: 00:13:06
+AddChapterBySecond("786.963","Hughie wants to make things right")
+# Chapter 005: 00:14:58
+AddChapterBySecond("898.986","A great time to be a superhero")
+# Chapter 006: 00:19:10
+AddChapterBySecond("1150.954","A-Train seems to be everywhere")
+# Chapter 007: 00:20:05
+AddChapterBySecond("1205.965","How bad do you want to be in the seven?")
+# Chapter 008: 00:24:24
+AddChapterBySecond("1464.972","Billy makes Hughie an offer")
+# Chapter 009: 00:28:57
+AddChapterBySecond("1737.957","Supes let loose")
+# Chapter 010: 00:29:37
+AddChapterBySecond("1777.956","No Title")
+# Chapter 011: 00:31:17
+AddChapterBySecond("1877.969","Never let them see you cry")
+# Chapter 012: 00:32:18
+AddChapterBySecond("1938.985","Someone&aposs trying to hide something")
+# Chapter 013: 00:34:53
+AddChapterBySecond("2093.008","Negotiations for a new hero")
+# Chapter 014: 00:36:55
+AddChapterBySecond("2215.973","Figure out who you are")
+# Chapter 015: 00:41:25
+AddChapterBySecond("2485.989","Hughie accepts the offer")
+# Chapter 016: 00:42:41
+AddChapterBySecond("2561.983","The first meeting of the new Seven")
+# Chapter 017: 00:44:18
+AddChapterBySecond("2658.994","Hughie does his part")
+# Chapter 018: 00:45:16
+AddChapterBySecond("2716.340","No Title")
+# Chapter 019: 00:51:18
+AddChapterBySecond("3078.997","Madelyn caves on the deal")
+# Chapter 020: 00:52:02
+AddChapterBySecond("3122.965","An unexpected visitor")
+# Chapter 021: 00:53:46
+AddChapterBySecond("3226.548","No Title")
+# Chapter 022: 00:55:25
+AddChapterBySecond("3325.527","No Title")
+# Chapter 023: 00:57:02
+AddChapterBySecond("3422.972","Some bumpy turbulence")
+# Chapter 024: 00:58:09
+AddChapterBySecond("3489.992","End Credits")
+# Chapter 025: 00:27:00
+AddChapterBySecond("1620.396","No Title")

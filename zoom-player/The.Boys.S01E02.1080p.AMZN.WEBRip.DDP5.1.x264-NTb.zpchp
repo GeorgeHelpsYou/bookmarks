@@ -1,0 +1,69 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:05
+AddChapterBySecond("5.004","Ratings")
+# Chapter 002: 00:00:15
+AddChapterBySecond("15.012","Cleaning up the mess")
+# Chapter 003: 00:00:49
+AddChapterBySecond("49.006","Title Sequence")
+# Chapter 004: 00:00:52
+AddChapterBySecond("52.008","Billy goes to see an old friend")
+# Chapter 005: 00:05:14
+AddChapterBySecond("314.985","Publicity gone wrong")
+# Chapter 006: 00:07:01
+AddChapterBySecond("421.003","Starlight&aposs first mission")
+# Chapter 007: 00:08:42
+AddChapterBySecond("522.985","Setting up a home base")
+# Chapter 008: 00:11:56
+AddChapterBySecond("716.006","Everyone needs protection")
+# Chapter 009: 00:16:27
+AddChapterBySecond("987.990","Come home Hughie")
+# Chapter 010: 00:18:21
+AddChapterBySecond("1101.014","Homelander and The Deep have a meeting")
+# Chapter 011: 00:20:56
+AddChapterBySecond("1256.005","Experimenting with bullets")
+# Chapter 012: 00:23:10
+AddChapterBySecond("1390.012","Tracking Translucent&aposs whereabouts")
+# Chapter 013: 00:23:59
+AddChapterBySecond("1439.985","A mission at the docks")
+# Chapter 014: 00:27:02
+AddChapterBySecond("1622.998","Butcher calls in a favor")
+# Chapter 015: 00:29:42
+AddChapterBySecond("1782.993","Hughie interrogates Translucent")
+# Chapter 016: 00:34:49
+AddChapterBySecond("2089.005","A black tie affair")
+# Chapter 017: 00:37:10
+AddChapterBySecond("2230.985","Starlight is here to protect and serve")
+# Chapter 018: 00:38:01
+AddChapterBySecond("2281.992","Frenchie&aposs backstory")
+# Chapter 019: 00:41:12
+AddChapterBySecond("2472.011","The Senator has a good time")
+# Chapter 020: 00:41:58
+AddChapterBySecond("2518.014","Homelander is obsessed")
+# Chapter 021: 00:43:24
+AddChapterBySecond("2604.017","Frenchie has an idea")
+# Chapter 022: 00:44:16
+AddChapterBySecond("2656.992","Ashley reprimands Starlight")
+# Chapter 023: 00:45:59
+AddChapterBySecond("2759.007","Madelyn has a proposal for the Senator")
+# Chapter 024: 00:47:34
+AddChapterBySecond("2854.017","Homelander goes rogue")
+# Chapter 025: 00:48:49
+AddChapterBySecond("2929.010","Time for plan B")
+# Chapter 026: 00:57:06
+AddChapterBySecond("3426.007","End Credits")
+# Chapter 027: 00:06:17
+AddChapterBySecond("377.402","No Title")
+# Chapter 028: 00:13:59
+AddChapterBySecond("839.105","No Title")
+# Chapter 029: 00:33:16
+AddChapterBySecond("1996.831","No Title")

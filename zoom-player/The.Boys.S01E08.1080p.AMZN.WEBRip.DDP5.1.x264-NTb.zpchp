@@ -1,0 +1,59 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:05
+AddChapterBySecond("5.004","Ratings")
+# Chapter 002: 00:00:15
+AddChapterBySecond("15.012","A jolly Christmas party")
+# Chapter 003: 00:03:06
+AddChapterBySecond("186.015","No red flags")
+# Chapter 004: 00:07:12
+AddChapterBySecond("432.012","Homelander finds the connection")
+# Chapter 005: 00:07:49
+AddChapterBySecond("469.009","Title Sequence")
+# Chapter 006: 00:07:54
+AddChapterBySecond("474.013","The Deep gets set up in Ohio")
+# Chapter 007: 00:09:32
+AddChapterBySecond("572.992","Time for some tough love")
+# Chapter 008: 00:16:55
+AddChapterBySecond("1015.012","Everyone&aposs been burned")
+# Chapter 009: 00:20:59
+AddChapterBySecond("1259.007","Negotiating with A-Train")
+# Chapter 010: 00:24:07
+AddChapterBySecond("1447.992","Explaining the urgency of the situation")
+# Chapter 011: 00:24:58
+AddChapterBySecond("1498.999","Homelander starts asking questions")
+# Chapter 012: 00:27:34
+AddChapterBySecond("1654.991","The Deep makes a mistake")
+# Chapter 013: 00:29:40
+AddChapterBySecond("1780.991","Billy tracks down Mesmer")
+# Chapter 014: 00:32:21
+AddChapterBySecond("1941.987","Billy&aposs offer for payback")
+# Chapter 015: 00:33:43
+AddChapterBySecond("2023.986","Our weakness is people")
+# Chapter 016: 00:35:28
+AddChapterBySecond("2128.002","The Deep keeps trying to do the right thing")
+# Chapter 017: 00:36:43
+AddChapterBySecond("2203.997","Trying to make a plan")
+# Chapter 018: 00:40:01
+AddChapterBySecond("2401.988","The truth about Becca")
+# Chapter 019: 00:45:30
+AddChapterBySecond("2730.985","The CIA to the rescue")
+# Chapter 020: 00:48:11
+AddChapterBySecond("2891.013","Raynor explains the situation to Madelyn")
+# Chapter 021: 00:49:55
+AddChapterBySecond("2995.997","A greater threat has emerged")
+# Chapter 022: 00:51:47
+AddChapterBySecond("3107.986","Starlight confronts Hughie")
+# Chapter 023: 00:54:23
+AddChapterBySecond("3263.010","End Credits")
+# Chapter 024: 00:32:44
+AddChapterBySecond("1964.839","No Title")

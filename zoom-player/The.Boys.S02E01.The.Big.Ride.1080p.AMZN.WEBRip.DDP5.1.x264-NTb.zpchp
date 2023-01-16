@@ -1,0 +1,65 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Amazon Original")
+# Chapter 001: 00:00:05
+AddChapterBySecond("5.004","Ratings")
+# Chapter 002: 00:00:15
+AddChapterBySecond("15.012","Previously On")
+# Chapter 003: 00:02:58
+AddChapterBySecond("178.009","Collateral damage negotiations")
+# Chapter 004: 00:06:10
+AddChapterBySecond("370.997","A memorial service")
+# Chapter 005: 00:09:41
+AddChapterBySecond("581.999","Post-funeral interview")
+# Chapter 006: 00:11:29
+AddChapterBySecond("689.985","Title Sequence &pipe Hughie in bed")
+# Chapter 007: 00:11:36
+AddChapterBySecond("696.991","Getting ready")
+# Chapter 008: 00:14:29
+AddChapterBySecond("869.996","Secret meetings")
+# Chapter 009: 00:17:16
+AddChapterBySecond("1036.996","The Deep has a meltdown")
+# Chapter 010: 00:18:41
+AddChapterBySecond("1121.998","Watching TV")
+# Chapter 011: 00:19:47
+AddChapterBySecond("1187.984","Team arguments")
+# Chapter 012: 00:21:19
+AddChapterBySecond("1279.991","Homelander is in power")
+# Chapter 013: 00:27:02
+AddChapterBySecond("1622.998","Making money")
+# Chapter 014: 00:30:02
+AddChapterBySecond("1802.008","A new patient")
+# Chapter 015: 00:31:36
+AddChapterBySecond("1896.984","Watching the tapes")
+# Chapter 016: 00:33:42
+AddChapterBySecond("2022.985","Focus groups")
+# Chapter 017: 00:35:07
+AddChapterBySecond("2107.986","A safe space")
+# Chapter 018: 00:38:19
+AddChapterBySecond("2299.006","What to do next")
+# Chapter 019: 00:43:05
+AddChapterBySecond("2585.001","Black mail")
+# Chapter 020: 00:46:40
+AddChapterBySecond("2800.007","New kid on the block")
+# Chapter 021: 00:48:50
+AddChapterBySecond("2930.011","CIA meeting")
+# Chapter 022: 00:51:22
+AddChapterBySecond("3083.000","Homelander confronts Stan")
+# Chapter 023: 00:56:06
+AddChapterBySecond("3366.994","An unexpected visit")
+# Chapter 024: 00:56:39
+AddChapterBySecond("3399.987","Lies and deceit")
+# Chapter 025: 01:00:55
+AddChapterBySecond("3655.991","End Credits")
+# Chapter 026: 00:08:19
+AddChapterBySecond("499.500","No Title")
+# Chapter 027: 00:52:29
+AddChapterBySecond("3149.053","No Title")
