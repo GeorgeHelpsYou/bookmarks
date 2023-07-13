@@ -1,0 +1,115 @@
+// Zoom Player v12.7 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","00:00:00.000")
+# Chapter 001: 00:00:21
+AddChapterBySecond("21.184","00:00:21.188")
+# Chapter 002: 00:01:55
+AddChapterBySecond("115.092","00:01:55.115")
+# Chapter 003: 00:04:58
+AddChapterBySecond("298.439","00:04:58.465")
+# Chapter 004: 00:08:10
+AddChapterBySecond("490.893","00:08:10.907")
+# Chapter 005: 00:12:21
+AddChapterBySecond("741.894","00:12:21.908")
+# Chapter 006: 00:14:22
+AddChapterBySecond("862.023","00:14:22.028")
+# Chapter 007: 00:17:35
+AddChapterBySecond("1055.978","00:17:36.013")
+# Chapter 008: 00:22:10
+AddChapterBySecond("1330.031","00:22:10.037")
+# Chapter 009: 00:25:08
+AddChapterBySecond("1508.307","00:25:08.340")
+# Chapter 010: 00:29:37
+AddChapterBySecond("1777.322","00:29:37.359")
+# Chapter 011: 00:31:28
+AddChapterBySecond("1888.978","00:31:29.012")
+# Chapter 012: 00:37:44
+AddChapterBySecond("2264.445","00:37:44.471")
+# Chapter 013: 00:39:32
+AddChapterBySecond("2372.198","00:39:32.245")
+# Chapter 014: 00:45:17
+AddChapterBySecond("2717.374","00:45:17.423")
+# Chapter 015: 00:48:23
+AddChapterBySecond("2903.356","00:48:23.400")
+# Chapter 016: 00:51:35
+AddChapterBySecond("3095.977","00:51:36.010")
+# Chapter 017: 00:53:32
+AddChapterBySecond("3212.637","00:53:32.668")
+# Chapter 018: 00:54:25
+AddChapterBySecond("3265.079","00:54:25.095")
+# Chapter 019: 00:56:55
+AddChapterBySecond("3415.199","00:56:55.245")
+# Chapter 020: 00:58:43
+AddChapterBySecond("3523.786","00:58:43.812")
+# Chapter 021: 01:02:41
+AddChapterBySecond("3761.676","01:02:41.716")
+# Chapter 022: 01:06:19
+AddChapterBySecond("3979.250","01:06:19.267")
+# Chapter 023: 01:07:47
+AddChapterBySecond("4067.454","01:07:47.480")
+# Chapter 024: 01:12:01
+AddChapterBySecond("4321.124","01:12:01.108")
+# Chapter 025: 01:15:52
+AddChapterBySecond("4552.642","01:15:52.673")
+# Chapter 026: 01:18:14
+AddChapterBySecond("4694.823","01:18:14.815")
+# Chapter 027: 01:22:30
+AddChapterBySecond("4950.394","01:22:30.404")
+# Chapter 028: 01:26:06
+AddChapterBySecond("5166.867","01:26:06.870")
+# Chapter 029: 01:26:52
+AddChapterBySecond("5212.070","01:26:52.082")
+# Chapter 030: 01:27:50
+AddChapterBySecond("5270.850","01:27:50.891")
+# Chapter 031: 01:30:04
+AddChapterBySecond("5404.524","01:30:04.524")
+# Chapter 032: 01:33:19
+AddChapterBySecond("5599.146","01:33:19.135")
+# Chapter 033: 01:36:41
+AddChapterBySecond("5801.408","01:36:41.421")
+# Chapter 034: 01:40:25
+AddChapterBySecond("6025.187","01:40:25.186")
+# Chapter 035: 01:42:23
+AddChapterBySecond("6143.148","01:42:23.179")
+# Chapter 036: 01:44:27
+AddChapterBySecond("6267.781","01:44:27.803")
+# Chapter 037: 01:45:26
+AddChapterBySecond("6326.962","01:45:26.946")
+# Chapter 038: 01:48:42
+AddChapterBySecond("6522.418","01:48:42.433")
+# Chapter 039: 01:50:40
+AddChapterBySecond("6640.646","01:50:40.634")
+# Chapter 040: 01:51:37
+AddChapterBySecond("6697.058","01:51:37.107")
+# Chapter 041: 01:54:37
+AddChapterBySecond("6877.102","01:54:37.120")
+# Chapter 042: 01:55:07
+AddChapterBySecond("6907.860","01:55:07.859")
+# Chapter 043: 01:55:57
+AddChapterBySecond("6957.466","01:55:57.492")
+# Chapter 044: 01:57:40
+AddChapterBySecond("7060.148","01:57:40.178")
+# Chapter 045: 01:59:34
+AddChapterBySecond("7174.173","01:59:34.167")
+# Chapter 046: 02:01:03
+AddChapterBySecond("7263.611","No Title")
+# Chapter 047: 02:01:11
+AddChapterBySecond("7271.217","No Title")
+# Chapter 048: 02:01:58
+AddChapterBySecond("7318.822","02:01:58.853")
+# Chapter 049: 02:04:50
+AddChapterBySecond("7490.526","02:04:50.566")
+# Chapter 050: 02:05:27
+AddChapterBySecond("7527.422","02:05:27.437")
+# Chapter 051: 02:07:56
+AddChapterBySecond("7676.041","02:07:56.043")
+# Chapter 052: 01:50:01
+AddChapterBySecond("6601.081","No Title")

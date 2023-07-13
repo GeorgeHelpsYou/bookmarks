@@ -9,9 +9,13 @@
 //
 # Chapter 000: 01:37:39
 AddChapterBySecond("5859.488","No Title")
-# Chapter 001: 02:21:52
+# Chapter 001: 02:08:28
+AddChapterBySecond("7708.867","No Title")
+# Chapter 002: 02:20:52
+AddChapterBySecond("8452.996","No Title")
+# Chapter 003: 02:21:52
 AddChapterBySecond("8512.877","No Title")
-# Chapter 002: 02:08:28
-AddChapterBySecond("7708.900","No Title")
-# Chapter 003: 02:20:53
-AddChapterBySecond("8453.029","No Title")
+# Chapter 004: 02:14:32
+AddChapterBySecond("8072.625","No Title")
+# Chapter 005: 02:15:15
+AddChapterBySecond("8115.259","No Title")
