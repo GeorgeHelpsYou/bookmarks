@@ -51,88 +51,88 @@ AddChapterBySecond("1818.822","Building a new world together")
 AddChapterBySecond("2136.910","No Title")
 # Chapter 021: 00:35:50
 AddChapterBySecond("2150.354","No Title")
-# Chapter 022: 00:35:50
-AddChapterBySecond("2150.921","No Title")
-# Chapter 023: 00:36:56
+# Chapter 022: 00:36:56
 AddChapterBySecond("2216.340","No Title")
-# Chapter 024: 00:40:09
+# Chapter 023: 00:40:09
 AddChapterBySecond("2409.561","No Title")
-# Chapter 025: 00:42:44
+# Chapter 024: 00:42:44
 AddChapterBySecond("2564.852","Determining what&aposs best for the kingdom")
-# Chapter 026: 00:44:20
+# Chapter 025: 00:44:20
 AddChapterBySecond("2660.395","No Title")
-# Chapter 027: 00:44:59
+# Chapter 026: 00:44:59
 AddChapterBySecond("2699.293","No Title")
-# Chapter 028: 00:45:31
+# Chapter 027: 00:45:31
 AddChapterBySecond("2731.719","No Title")
-# Chapter 029: 00:45:54
+# Chapter 028: 00:45:54
 AddChapterBySecond("2754.971","No Title")
-# Chapter 030: 00:46:23
-AddChapterBySecond("2783.827","No Title")
-# Chapter 031: 00:46:34
+# Chapter 029: 00:46:23
+AddChapterBySecond("2783.794","No Title")
+# Chapter 030: 00:46:34
 AddChapterBySecond("2794.436","No Title")
-# Chapter 032: 00:46:34
+# Chapter 031: 00:46:34
 AddChapterBySecond("2794.569","No Title")
-# Chapter 033: 00:47:20
+# Chapter 032: 00:47:20
 AddChapterBySecond("2840.873","No Title")
-# Chapter 034: 00:47:43
+# Chapter 033: 00:47:43
 AddChapterBySecond("2863.691","No Title")
-# Chapter 035: 00:48:20
+# Chapter 034: 00:48:20
 AddChapterBySecond("2900.821","No Title")
-# Chapter 036: 00:48:58
+# Chapter 035: 00:48:58
 AddChapterBySecond("2938.351","No Title")
-# Chapter 037: 00:48:58
+# Chapter 036: 00:48:58
 AddChapterBySecond("2938.451","No Title")
-# Chapter 038: 00:49:40
+# Chapter 037: 00:49:40
 AddChapterBySecond("2980.985","No Title")
-# Chapter 039: 00:50:03
+# Chapter 038: 00:50:03
 AddChapterBySecond("3003.870","No Title")
-# Chapter 040: 00:50:23
+# Chapter 039: 00:50:23
 AddChapterBySecond("3023.519","No Title")
-# Chapter 041: 00:50:27
+# Chapter 040: 00:50:27
 AddChapterBySecond("3027.389","No Title")
-# Chapter 042: 00:50:52
+# Chapter 041: 00:50:52
 AddChapterBySecond("3052.709","No Title")
-# Chapter 043: 00:51:29
+# Chapter 042: 00:51:29
 AddChapterBySecond("3089.672","No Title")
-# Chapter 044: 00:51:46
+# Chapter 043: 00:51:46
 AddChapterBySecond("3106.252","No Title")
-# Chapter 045: 00:51:46
+# Chapter 044: 00:51:46
 AddChapterBySecond("3106.352","No Title")
-# Chapter 046: 00:51:46
+# Chapter 045: 00:51:46
 AddChapterBySecond("3106.452","No Title")
-# Chapter 047: 00:52:27
+# Chapter 046: 00:52:27
 AddChapterBySecond("3147.218","No Title")
-# Chapter 048: 00:52:27
+# Chapter 047: 00:52:27
 AddChapterBySecond("3147.385","No Title")
-# Chapter 049: 00:52:33
+# Chapter 048: 00:52:33
 AddChapterBySecond("3153.590","No Title")
-# Chapter 050: 00:52:44
+# Chapter 049: 00:52:44
 AddChapterBySecond("3164.465","No Title")
-# Chapter 051: 00:53:54
+# Chapter 050: 00:53:54
 AddChapterBySecond("3234.121","No Title")
-# Chapter 052: 00:54:07
+# Chapter 051: 00:54:07
 AddChapterBySecond("3247.098","No Title")
-# Chapter 053: 00:54:18
+# Chapter 052: 00:54:18
 AddChapterBySecond("3258.607","No Title")
-# Chapter 054: 00:55:34
+# Chapter 053: 00:55:34
 AddChapterBySecond("3334.468","No Title")
-# Chapter 055: 00:55:48
+# Chapter 054: 00:55:48
 AddChapterBySecond("3348.279","No Title")
-# Chapter 056: 00:56:16
+# Chapter 055: 00:56:16
 AddChapterBySecond("3376.835","Everyone is where they&aposre supposed to be")
-# Chapter 057: 00:56:36
+# Chapter 056: 00:56:36
 AddChapterBySecond("3396.751","No Title")
-# Chapter 058: 00:57:21
+# Chapter 057: 00:57:21
 AddChapterBySecond("3441.220","No Title")
-# Chapter 059: 00:57:38
+# Chapter 058: 00:57:38
 AddChapterBySecond("3458.834","No Title")
-# Chapter 060: 00:57:39
+# Chapter 059: 00:57:39
 AddChapterBySecond("3459.868","No Title")
-# Chapter 061: 00:58:04
+# Chapter 060: 00:58:04
 AddChapterBySecond("3484.788","No Title")
-# Chapter 062: 01:03:42
+# Chapter 061: 01:03:42
 AddChapterBySecond("3822.825","Honoring a legacy")
+# Chapter 062: 01:03:56
+AddChapterBySecond("3836.236","No Title")
 # Chapter 063: 01:05:45
 AddChapterBySecond("3945.857","A song of ice and fire")
 # Chapter 064: 01:10:42
@@ -143,5 +143,3 @@ AddChapterBySecond("4275.821","And now my watch begins")
 AddChapterBySecond("4350.814","The last of house Stark")
 # Chapter 067: 01:18:08
 AddChapterBySecond("4688.818","End Credits")
-# Chapter 068: 01:03:56
-AddChapterBySecond("3836.236","No Title")

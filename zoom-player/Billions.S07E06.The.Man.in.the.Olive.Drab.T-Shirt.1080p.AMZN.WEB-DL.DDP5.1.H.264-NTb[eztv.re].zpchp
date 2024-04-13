@@ -1,0 +1,57 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:08:26
+AddChapterBySecond("506.205","No Title")
+# Chapter 001: 00:18:34
+AddChapterBySecond("1114.692","No Title")
+# Chapter 002: 00:27:26
+AddChapterBySecond("1646.651","No Title")
+# Chapter 003: 00:27:48
+AddChapterBySecond("1668.602","No Title")
+# Chapter 004: 00:32:18
+AddChapterBySecond("1938.184","No Title")
+# Chapter 005: 00:34:39
+AddChapterBySecond("2079.564","No Title")
+# Chapter 006: 00:38:03
+AddChapterBySecond("2283.794","No Title")
+# Chapter 007: 00:38:12
+AddChapterBySecond("2292.868","No Title")
+# Chapter 008: 00:40:10
+AddChapterBySecond("2410.662","No Title")
+# Chapter 009: 00:41:33
+AddChapterBySecond("2493.795","No Title")
+# Chapter 010: 00:43:16
+AddChapterBySecond("2596.511","No Title")
+# Chapter 011: 00:44:59
+AddChapterBySecond("2699.760","No Title")
+# Chapter 012: 00:45:33
+AddChapterBySecond("2733.654","No Title")
+# Chapter 013: 00:46:05
+AddChapterBySecond("2765.946","No Title")
+# Chapter 014: 00:47:57
+AddChapterBySecond("2877.936","No Title")
+# Chapter 015: 00:49:36
+AddChapterBySecond("2976.648","No Title")
+# Chapter 016: 00:52:23
+AddChapterBySecond("3143.615","No Title")
+# Chapter 017: 00:20:31
+AddChapterBySecond("1231.018","No Title")
+# Chapter 018: 00:27:43
+AddChapterBySecond("1663.598","No Title")
+# Chapter 019: 00:34:30
+AddChapterBySecond("2070.123","No Title")
+# Chapter 020: 00:34:50
+AddChapterBySecond("2090.606","No Title")
+# Chapter 021: 00:37:48
+AddChapterBySecond("2268.682","No Title")
+# Chapter 022: 00:38:18
+AddChapterBySecond("2298.139","No Title")
+# Chapter 023: 00:46:30
+AddChapterBySecond("2790.933","No Title")
