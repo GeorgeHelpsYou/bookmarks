@@ -1,0 +1,43 @@
+// Zoom Player v14.5 Chapter file.
+//
+// Usage   : AddChapter(FrameNumber,Chapter Title)
+// Example : AddChapter(1245,The break in)
+// Usage   : AddChapterBySecond(PositionInSeconds,Chapter Title)
+// Example : AddChapterBySecond(3600,One Hour Into the Video)
+// Usage   : AddChapterByTime(Hours,Minutes,Seconds,Chapter Title)
+// Example : AddChapterByTime(1,20,35,1 Hour 20 minutes and 35 seconds Into the Video)
+//
+# Chapter 000: 00:00:00
+AddChapterBySecond("0.000","Saving Nibiru")
+# Chapter 001: 00:10:20
+AddChapterBySecond("620.363","Sacrifice and Loss")
+# Chapter 002: 00:19:21
+AddChapterBySecond("1161.496","Starfleet HQ Attack")
+# Chapter 003: 00:30:03
+AddChapterBySecond("1803.977","Section 31")
+# Chapter 004: 00:40:09
+AddChapterBySecond("2409.127","Emergency Stop")
+# Chapter 005: 00:46:05
+AddChapterBySecond("2765.246","Capture on Kronos")
+# Chapter 006: 00:56:38
+AddChapterBySecond("3398.219","72 Reasons")
+# Chapter 007: 01:06:35
+AddChapterBySecond("3995.797","Khan Comes Clean")
+# Chapter 008: 01:12:55
+AddChapterBySecond("4375.667","The Dreadnought")
+# Chapter 009: 01:22:45
+AddChapterBySecond("4965.739","Pull the Trigger")
+# Chapter 010: 01:30:54
+AddChapterBySecond("5454.730","Infiltrating Vengeance&aposs Bridge")
+# Chapter 011: 01:38:36
+AddChapterBySecond("5916.366","Warp Core Misaligned")
+# Chapter 012: 01:47:09
+AddChapterBySecond("6429.544","You Are My Friend")
+# Chapter 013: 01:54:17
+AddChapterBySecond("6857.152","Spock Hunts Khan")
+# Chapter 014: 01:59:20
+AddChapterBySecond("7160.662","Five Year Mission")
+# Chapter 015: 02:03:18
+AddChapterBySecond("7398.319","End Credits")
+# Chapter 016: 01:03:48
+AddChapterBySecond("3828.163","No Title")
